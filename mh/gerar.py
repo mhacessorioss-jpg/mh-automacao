@@ -14,6 +14,12 @@ from . import config, estado, gemini, legenda, post
 # A foto do fornecedor com a modelo DELES só é enviada se a peça não tiver foto em fundo branco.
 # Assim o Gemini não mistura o rosto/batom da outra modelo com a modelo oficial da MH.
 USAR_FOTO_EM_USO = False
+# Exceção: para anéis a foto "em uso" ajuda a acertar o encaixe no dedo.
+CATEGORIAS_COM_FOTO_EM_USO = {"anel"}
+
+
+def usa_foto_em_uso(p):
+    return bool(p["foto_em_uso"]) and (USAR_FOTO_EM_USO or p["categoria"] in CATEGORIAS_COM_FOTO_EM_USO)
 
 
 def escolher_roupa(p):
@@ -27,7 +33,7 @@ def montar_prompt(p, roupa):
     pr = config.PROMPTS
     texto = pr["base"].format(nome=p["nome_vitrine"], cor=p["cor"], material=p["material"], roupa=roupa)
     texto += " " + pr["por_categoria"].get(p["categoria"], pr["por_categoria"]["outro"])
-    if USAR_FOTO_EM_USO and p["foto_em_uso"]:
+    if usa_foto_em_uso(p):
         texto += " " + pr["referencia_em_uso"]
     return texto
 
@@ -37,7 +43,7 @@ def gerar(p: dict, teste: bool = False) -> Path:
     pasta.mkdir(parents=True, exist_ok=True)
     bruta = pasta / "gerada.png"
     imagens = [config.MODELO, config.FOTOS / p["foto_peca"]]
-    if USAR_FOTO_EM_USO and p["foto_em_uso"]:
+    if usa_foto_em_uso(p):
         imagens.append(config.FOTOS / p["foto_em_uso"])
     roupa_chave, roupa = escolher_roupa(p)
     prompt = montar_prompt(p, roupa)
