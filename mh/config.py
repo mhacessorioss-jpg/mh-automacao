@@ -6,7 +6,7 @@ FOTOS = RAIZ / "fotos"
 FILA = RAIZ / "fila"
 CATALOGO = RAIZ / "catalogo" / "produtos.csv"
 ESTADO = RAIZ / "estado" / "estado.json"
-MODELO = RAIZ / "marca" / "modelo_oficial.png"
+MODELO = RAIZ / "marca" / "modelo_oficial_sem_joias.png"  # mesma modelo, sem joias (evita copiar brincos/colares)
 SELO = RAIZ / "marca" / "selo_branco.png"
 
 PROMPTS = json.loads((RAIZ / "config" / "prompts.json").read_text(encoding="utf-8"))
