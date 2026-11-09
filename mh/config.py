@@ -21,7 +21,7 @@ GITHUB_REPOSITORY = os.getenv("GITHUB_REPOSITORY", "")  # "usuario/repositorio",
 
 # Ajustes (podem virar Variables no GitHub sem mexer no código)
 GEMINI_IMAGE_MODEL = os.getenv("GEMINI_IMAGE_MODEL") or "gemini-2.5-flash-image"
-GEMINI_TEXT_MODEL = os.getenv("GEMINI_TEXT_MODEL") or "gemini-2.5-flash"
+GEMINI_TEXT_MODEL = os.getenv("GEMINI_TEXT_MODEL") or "gemini-flash-latest"
 GRAPH_VERSION = os.getenv("GRAPH_VERSION") or "v24.0"
 BRANCH = os.getenv("BRANCH") or "main"
 

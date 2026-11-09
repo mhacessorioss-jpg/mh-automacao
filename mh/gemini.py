@@ -39,9 +39,22 @@ def gerar_imagem(prompt: str, imagens: list[Path], saida: Path) -> Path:
     raise RuntimeError(f"O Gemini não devolveu imagem. Motivo: {motivo}")
 
 
+MODELOS_TEXTO_RESERVA = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
+
+
 def gerar_texto(prompt: str) -> str:
     corpo = {"contents": [{"parts": [{"text": prompt}]}],
-             "generationConfig": {"temperature": 0.9, "maxOutputTokens": 300}}
-    resp = _post(config.GEMINI_TEXT_MODEL, corpo)
+             "generationConfig": {"temperature": 0.9, "maxOutputTokens": 400}}
+    ultimo = None
+    for modelo in [config.GEMINI_TEXT_MODEL] + MODELOS_TEXTO_RESERVA:
+        try:
+            resp = _post(modelo, corpo, tentativas=1)
+            break
+        except RuntimeError as e:  # modelo inexistente/desativado: tenta o próximo
+            ultimo = e
+            if " 404" not in str(e) and " 400" not in str(e):
+                raise
+    else:
+        raise ultimo
     partes = resp["candidates"][0]["content"]["parts"]
     return "".join(p.get("text", "") for p in partes).strip()

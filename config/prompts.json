@@ -1,31 +1,69 @@
 {
   "_como_editar": "Textos enviados ao Gemini. Pode ajustar à vontade: o próximo post já usa a versão nova. {nome}, {cor}, {material} e {roupa} são preenchidos automaticamente.",
-
-  "base": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, o mesmo tom de pele, o cabelo castanho ondulado na altura do peito, as sobrancelhas, o sorriso suave e a maquiagem natural (pele iluminada, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste {roupa}. Ambiente claro e acolhedor, com plantas, janela e luz natural suave. A SEGUNDA imagem é a joia '{nome}' ({material}, cor {cor}). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. Remova todas as outras joias da modelo: ela usa somente esta peça. Foto editorial fotorrealista, estética minimalista e sofisticada, paleta bege, taupe e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo.",
-
+  "base": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, o mesmo tom de pele, o cabelo castanho ondulado na altura do peito, as sobrancelhas, o sorriso suave e a maquiagem natural (pele iluminada, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste {roupa}. Ambiente claro e acolhedor, com plantas, janela e luz natural suave. A SEGUNDA imagem é a joia '{nome}' ({material}, cor {cor}). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. Remova TODAS as outras joias e acessórios da modelo (nenhum outro brinco, ear cuff, piercing, colar, anel, pulseira ou relógio): ela usa SOMENTE esta peça. A roupa deve ser elegante e discreta, de tecido opaco e com forro, sem transparência e sem marcar o corpo (aparência de campanha de joalheria sofisticada). Foto editorial fotorrealista, estética minimalista e sofisticada, paleta bege, taupe e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo.",
   "referencia_em_uso": "A TERCEIRA imagem mostra a mesma joia sendo usada por OUTRA pessoa, que NÃO é a nossa modelo: use-a APENAS para entender o tamanho e a forma de usar a peça. Não copie o rosto, o cabelo, a maquiagem (principalmente o batom vermelho), a roupa nem o fundo dessa foto.",
-
   "_roupas": "Guarda-roupa da modelo. A cada post o robô sorteia uma roupa permitida para a categoria. Pode incluir ou tirar opções; mantenha a paleta da marca.",
   "roupas": {
     "blazer_linho": "blazer de linho bege com regata canelada bege",
     "camisa_seda": "camisa de seda off-white com os primeiros botões abertos",
     "regata_tricot": "regata de tricô fino na cor areia",
-    "vestido_alca": "vestido de alcinha acetinado na cor taupe",
+    "vestido_alca": "vestido de alcinha em crepe fosco na cor taupe, com forro",
     "tricot_decote_v": "tricô leve off-white com decote em V",
     "ombro_a_ombro": "blusa ombro a ombro de linho branco-gelo",
     "camisa_linho_aberta": "camisa de linho creme aberta sobre um top bege"
   },
   "roupas_por_categoria": {
-    "colar": ["blazer_linho", "camisa_seda", "regata_tricot", "vestido_alca", "tricot_decote_v", "ombro_a_ombro"],
-    "brinco": ["blazer_linho", "camisa_seda", "regata_tricot", "vestido_alca", "tricot_decote_v", "ombro_a_ombro", "camisa_linho_aberta"],
-    "anel": ["blazer_linho", "camisa_seda", "tricot_decote_v", "camisa_linho_aberta"],
-    "pulseira": ["blazer_linho", "camisa_seda", "tricot_decote_v", "camisa_linho_aberta"],
-    "tornozeleira": ["vestido_alca", "camisa_linho_aberta"],
-    "conjunto": ["blazer_linho", "camisa_seda", "regata_tricot", "vestido_alca", "tricot_decote_v"],
-    "piercing": ["regata_tricot", "vestido_alca", "ombro_a_ombro", "camisa_seda"],
-    "outro": ["blazer_linho", "camisa_seda"]
+    "colar": [
+      "blazer_linho",
+      "camisa_seda",
+      "regata_tricot",
+      "vestido_alca",
+      "tricot_decote_v",
+      "ombro_a_ombro"
+    ],
+    "brinco": [
+      "blazer_linho",
+      "camisa_seda",
+      "regata_tricot",
+      "vestido_alca",
+      "tricot_decote_v",
+      "ombro_a_ombro",
+      "camisa_linho_aberta"
+    ],
+    "anel": [
+      "blazer_linho",
+      "camisa_seda",
+      "tricot_decote_v",
+      "camisa_linho_aberta"
+    ],
+    "pulseira": [
+      "blazer_linho",
+      "camisa_seda",
+      "tricot_decote_v",
+      "camisa_linho_aberta"
+    ],
+    "tornozeleira": [
+      "vestido_alca",
+      "camisa_linho_aberta"
+    ],
+    "conjunto": [
+      "blazer_linho",
+      "camisa_seda",
+      "regata_tricot",
+      "vestido_alca",
+      "tricot_decote_v"
+    ],
+    "piercing": [
+      "regata_tricot",
+      "vestido_alca",
+      "ombro_a_ombro",
+      "camisa_seda"
+    ],
+    "outro": [
+      "blazer_linho",
+      "camisa_seda"
+    ]
   },
-
   "por_categoria": {
     "colar": "A modelo usa este colar no pescoço, com o decote/colo à mostra para o colar aparecer inteiro. Enquadramento do queixo até o peito, rosto de três quartos, parcialmente visível.",
     "brinco": "A modelo está de perfil ou de três quartos, com o cabelo preso atrás da orelha, usando este brinco. Se a referência mostrar um trio de brincos, use os três na mesma orelha, um em cada furo, do menor (no alto) para o maior (no lóbulo). Close na orelha e no maxilar, fundo desfocado.",
