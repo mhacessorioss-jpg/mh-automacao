@@ -1,0 +1,18 @@
+{
+  "produto": {
+    "codigo": "CEB5170",
+    "nome_vitrine": "Conjunto Colar e Brinco Design Coração",
+    "categoria": "conjunto",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "descricao_fornecedor": "Conjunto Colar e Brinco Folheado a Ouro 18k Design Coracao",
+    "foto_peca": "CEB5170_02.jpg",
+    "foto_em_uso": "CEB5170_01.jpg",
+    "ativo": "sim",
+    "motivo_inativo": ""
+  },
+  "roupa": "camisa_seda",
+  "prompt": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, o mesmo tom de pele, o cabelo castanho ondulado na altura do peito, as sobrancelhas, o sorriso suave e a maquiagem natural (pele iluminada, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste camisa de seda off-white com os primeiros botões abertos. Ambiente claro e acolhedor, com plantas, janela e luz natural suave. A SEGUNDA imagem é a joia 'Conjunto Colar e Brinco Design Coração' (Folheado a ouro 18k, cor dourado). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. Remova TODAS as outras joias e acessórios da modelo (nenhum outro brinco, ear cuff, piercing, colar, anel, pulseira ou relógio): ela usa SOMENTE esta peça. A roupa deve ser elegante e discreta, de tecido opaco e com forro, sem transparência e sem marcar o corpo (aparência de campanha de joalheria sofisticada). Foto editorial fotorrealista, estética minimalista e sofisticada, paleta bege, taupe e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo. A modelo usa TODAS as peças deste conjunto ao mesmo tempo (colar no pescoço, pulseira no pulso e/ou brincos na orelha, conforme a referência). Enquadramento do rosto até as mãos, com a mão perto do colo para mostrar a pulseira. Cada peça do conjunto aparece uma única vez (um colar de um fio só e um par de brincos iguais, um em cada orelha), idênticas à referência.",
+  "gerado_em": "2026-11-09 20:24",
+  "versao": 1794255842
+}
