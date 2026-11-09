@@ -17,7 +17,6 @@
       "blazer_linho",
       "camisa_seda",
       "regata_tricot",
-      "vestido_alca",
       "tricot_decote_v",
       "ombro_a_ombro"
     ],
@@ -25,7 +24,6 @@
       "blazer_linho",
       "camisa_seda",
       "regata_tricot",
-      "vestido_alca",
       "tricot_decote_v",
       "ombro_a_ombro",
       "camisa_linho_aberta"
@@ -43,19 +41,16 @@
       "camisa_linho_aberta"
     ],
     "tornozeleira": [
-      "vestido_alca",
       "camisa_linho_aberta"
     ],
     "conjunto": [
       "blazer_linho",
       "camisa_seda",
       "regata_tricot",
-      "vestido_alca",
       "tricot_decote_v"
     ],
     "piercing": [
       "regata_tricot",
-      "vestido_alca",
       "ombro_a_ombro",
       "camisa_seda"
     ],
@@ -65,12 +60,12 @@
     ]
   },
   "por_categoria": {
-    "colar": "A modelo usa este colar no pescoço, com o decote/colo à mostra para o colar aparecer inteiro. Enquadramento do queixo até o peito, rosto de três quartos, parcialmente visível.",
+    "colar": "A modelo usa este colar no pescoço, com o decote/colo à mostra para o colar aparecer inteiro. Enquadramento do queixo até o peito, rosto de três quartos, parcialmente visível. O colar tem UM ÚNICO fio, exatamente com o mesmo comprimento, tipo de corrente e quantidade/ordem de pingentes da referência; não duplique nem acrescente fios ou pingentes.",
     "brinco": "A modelo está de perfil ou de três quartos, com o cabelo preso atrás da orelha, usando este brinco. Se a referência mostrar um trio de brincos, use os três na mesma orelha, um em cada furo, do menor (no alto) para o maior (no lóbulo). Close na orelha e no maxilar, fundo desfocado.",
     "anel": "ENQUADRAMENTO: close-up de joalheria com a MÃO em primeiro plano, bem aproximada, ocupando cerca de 70% da foto (zoom de joalheria, o anel grande e em destaque), encostada delicadamente no queixo, com os dedos estendidos para cima. Aparecem só a parte de baixo do rosto (lábios e queixo, cortados no alto da foto), o pescoço e um pedaço do ombro; os olhos NÃO aparecem. Mesma composição da foto de referência em uso, mas com a pele, os lábios (batom nude rosado) e o cabelo castanho da nossa modelo oficial. O anel envolve UM ÚNICO dedo (o dedo médio), em foco nítido, reproduzindo exatamente a forma da referência: o número de voltas, as pontas e os detalhes, em metal dourado uniforme, sem partes de outra cor. Unhas amendoadas de comprimento médio, esmalte nude rosado. Nenhum outro anel ou joia.",
     "pulseira": "Close no pulso da modelo saindo da manga da roupa, usando esta pulseira. Unhas curtas em tom nude. Nenhuma outra joia nas mãos.",
     "tornozeleira": "Close no tornozelo da modelo, pé descalço ou com sandália rasteira nude, sobre um piso de madeira clara iluminado pela janela. Ela usa esta tornozeleira. O rosto não precisa aparecer.",
-    "conjunto": "A modelo usa TODAS as peças deste conjunto ao mesmo tempo (colar no pescoço, pulseira no pulso e/ou brincos na orelha, conforme a referência). Enquadramento do rosto até as mãos, com a mão perto do colo para mostrar a pulseira.",
+    "conjunto": "A modelo usa TODAS as peças deste conjunto ao mesmo tempo (colar no pescoço, pulseira no pulso e/ou brincos na orelha, conforme a referência). Enquadramento do rosto até as mãos, com a mão perto do colo para mostrar a pulseira. Cada peça do conjunto aparece uma única vez (um colar de um fio só e um par de brincos iguais, um em cada orelha), idênticas à referência.",
     "piercing": "A modelo está de perfil, com o cabelo preso atrás da orelha, usando este piercing/ear cuff na cartilagem da orelha, exatamente como na referência. Close na orelha.",
     "outro": "A modelo usa esta peça de forma natural e elegante, com a joia em destaque."
   }
