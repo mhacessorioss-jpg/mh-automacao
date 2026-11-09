@@ -1,0 +1,6 @@
+__pycache__/
+ultimo_codigo.txt
+fila/*/gerada.png
+.env
+scripts/planilha_origem.xlsx
+*.xlsx

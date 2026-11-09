@@ -1,0 +1,53 @@
+name: 1 · Gerar post do dia
+
+on:
+  schedule:
+    - cron: "17 12 * * *"   # todo dia às 09:17 (horário de Brasília)
+  workflow_dispatch:        # botão "Run workflow" para gerar na hora
+    inputs:
+      codigo:
+        description: "Código de uma peça específica (deixe vazio para a próxima da fila)"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: mh-fila
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      - name: Gerar imagem e legenda
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
+          GEMINI_TEXT_MODEL: ${{ vars.GEMINI_TEXT_MODEL }}
+        run: |
+          if [ -n "${{ inputs.codigo }}" ]; then python -m mh.gerar --codigo "${{ inputs.codigo }}"; else python -m mh.gerar; fi
+
+      - name: Salvar no repositório
+        run: |
+          [ -f ultimo_codigo.txt ] || { echo "Nada para gerar."; exit 0; }
+          git config user.name "MH Robô"
+          git config user.email "robo@users.noreply.github.com"
+          git add fila estado
+          git commit -m "Post gerado: $(cat ultimo_codigo.txt)" || true
+          git push
+
+      - name: Abrir pedido de aprovação
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ -f ultimo_codigo.txt ] || exit 0
+          python -m mh.aprovacao abrir "$(cat ultimo_codigo.txt)"
+          git add estado && git commit -m "Aguardando aprovação: $(cat ultimo_codigo.txt)" && git push || true

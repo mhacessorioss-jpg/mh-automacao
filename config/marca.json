@@ -1,0 +1,55 @@
+{
+  "_como_editar": "Regras de legenda da MH. O Gemini escreve a frase de abertura e a linha da peça seguindo isto; o resto da legenda é fixo.",
+  "tom_de_voz": "Curto, elegante, feminino e acolhedor. Frases de impacto com 2 a 5 palavras, como 'Simples. Elegante. Essencial.' Nada de exagero, gírias ou muitos emojis (no máximo 1 na abertura). Português do Brasil.",
+  "proibido": [
+    "citar preço ou valores",
+    "citar marcas de terceiros (Van Cleef, Vivara, Pandora, Cartier etc.), mesmo em peças 'inspiração'",
+    "dizer 'prata 925' ou 'ouro' maciço; usar só o material informado",
+    "prometer prazo de entrega"
+  ],
+  "linha_material": "{material}",
+  "linha_envio": "📦 Enviamos para todo o Brasil",
+  "chamada": "💬 Comente \"EU QUERO\" ou chame no direct",
+  "hashtags_fixas": [
+    "#mhacessorios",
+    "#semijoias",
+    "#acessoriosfemininos"
+  ],
+  "hashtags_por_categoria": {
+    "colar": [
+      "#colares",
+      "#colarfeminino"
+    ],
+    "brinco": [
+      "#brincos",
+      "#earstack"
+    ],
+    "anel": [
+      "#aneis",
+      "#anelfeminino"
+    ],
+    "pulseira": [
+      "#pulseiras",
+      "#mixdepulseiras"
+    ],
+    "tornozeleira": [
+      "#tornozeleira",
+      "#verao"
+    ],
+    "conjunto": [
+      "#conjuntodesemijoias",
+      "#presenteperfeito"
+    ],
+    "piercing": [
+      "#piercing",
+      "#earcuff"
+    ],
+    "outro": [
+      "#acessorios"
+    ]
+  },
+  "hashtag_material": {
+    "dourado": "#folheadoaouro18k",
+    "prateado": "#acessoriosprateados"
+  }
+}
