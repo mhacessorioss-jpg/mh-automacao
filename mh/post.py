@@ -14,7 +14,11 @@ def montar(foto: Path, saida: Path, foco: float = 0.3, opacidade: float = 0.85) 
     y = int((img.height - H) * foco)
     img = img.crop((x, y, x + W, y + H))
 
-    selo = Image.open(config.SELO).convert("RGBA")
+    # Selo branco em fundo escuro, marrom em fundo claro (mede o brilho do canto)
+    canto = img.crop((W - 220, H - 220, W, H)).convert("L")
+    brilho = sum(canto.getdata()) / (220 * 220)
+    arquivo = config.SELO if brilho < 170 else config.RAIZ / "marca" / "selo_marrom.png"
+    selo = Image.open(arquivo).convert("RGBA")
     selo = selo.crop(selo.getchannel("A").getbbox())
     selo.thumbnail((120, 120), Image.LANCZOS)
     selo.putalpha(selo.getchannel("A").point(lambda v: int(v * opacidade)))
