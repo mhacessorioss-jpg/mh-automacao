@@ -1,0 +1,12 @@
+[
+ {"codigo":"COL14013","de":"41,75","por":"35,00","horario":"2026-11-09 19:00"},
+ {"codigo":"CEB5170","de":"43,72","por":"29,90","horario":"2026-11-09 20:30"},
+ {"codigo":"COL14741","de":"59,26","por":"35,00","horario":"2026-11-09 21:30"},
+ {"codigo":"COL14662","de":"41,75","por":"29,90","horario":"2026-11-10 08:30"},
+ {"codigo":"PUL7046","de":"32,77","por":"14,90","horario":"2026-11-10 12:00"},
+ {"codigo":"BRI19641-2","de":"17,47","por":"9,90","horario":"2026-11-10 13:30"},
+ {"codigo":"COL12362","de":"48,76","por":"29,90","horario":"2026-11-10 18:00","foto_pronta":"fila/COL12362/post.jpg"},
+ {"codigo":"RELOGIO","nome":"Relógio Gota Dourado","categoria":"relogio","cor":"dourado","material":"Pulseira de aço dourada","ref":"campanhas/black-friday/ref/relogio.png","por":"45,00","horario":"2026-11-10 19:00"},
+ {"codigo":"PUL6713","de":"32,77","por":"14,90","horario":"2026-11-10 20:30"},
+ {"codigo":"COL14706-1","de":"48,76","por":"29,90","horario":"2026-11-10 21:30"}
+]

@@ -57,6 +57,12 @@
     "outro": [
       "blazer_linho",
       "camisa_seda"
+    ],
+    "relogio": [
+      "blazer_linho",
+      "camisa_seda",
+      "tricot_decote_v",
+      "camisa_linho_aberta"
     ]
   },
   "por_categoria": {
@@ -67,6 +73,7 @@
     "tornozeleira": "Close no tornozelo da modelo, pé descalço ou com sandália rasteira nude, sobre um piso de madeira clara iluminado pela janela. Ela usa esta tornozeleira. O rosto não precisa aparecer.",
     "conjunto": "A modelo usa TODAS as peças deste conjunto ao mesmo tempo (colar no pescoço, pulseira no pulso e/ou brincos na orelha, conforme a referência). Enquadramento do rosto até as mãos, com a mão perto do colo para mostrar a pulseira. Cada peça do conjunto aparece uma única vez (um colar de um fio só e um par de brincos iguais, um em cada orelha), idênticas à referência.",
     "piercing": "A modelo está de perfil, com o cabelo preso atrás da orelha, usando este piercing/ear cuff na cartilagem da orelha, exatamente como na referência. Close na orelha.",
-    "outro": "A modelo usa esta peça de forma natural e elegante, com a joia em destaque."
+    "outro": "A modelo usa esta peça de forma natural e elegante, com a joia em destaque.",
+    "relogio": "Close elegante no pulso e na mão da modelo, com o braço apoiado de forma natural, usando este relógio dourado (mostrador em formato de gota, pulseira de elos dourados). Reproduza o relógio idêntico à referência (formato da caixa, mostrador claro com algarismos romanos, pulseira), use APENAS o modelo dourado, sem nenhum texto ou marca legível no mostrador. Unhas nude. Nenhuma outra joia."
   }
 }
