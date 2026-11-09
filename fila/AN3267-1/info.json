@@ -1,0 +1,18 @@
+{
+  "produto": {
+    "codigo": "AN3267-1",
+    "nome_vitrine": "Anel Prego Ondulado",
+    "categoria": "anel",
+    "cor": "dourado",
+    "material": "Aço inoxidável folheado a ouro 18k",
+    "descricao_fornecedor": "Anel Aco Inoxidavel Folheado a Ouro 18k Prego Ondulado - Ouro - 16",
+    "foto_peca": "AN3267-1_02.jpg",
+    "foto_em_uso": "AN3267-1_01.jpg",
+    "ativo": "sim",
+    "motivo_inativo": ""
+  },
+  "roupa": "camisa_linho_aberta",
+  "prompt": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, o mesmo tom de pele, o cabelo castanho ondulado na altura do peito, as sobrancelhas, o sorriso suave e a maquiagem natural (pele iluminada, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste camisa de linho creme aberta sobre um top bege. Ambiente claro e acolhedor, com plantas, janela e luz natural suave. A SEGUNDA imagem é a joia 'Anel Prego Ondulado' (Aço inoxidável folheado a ouro 18k, cor dourado). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. Remova TODAS as outras joias e acessórios da modelo (nenhum outro brinco, ear cuff, piercing, colar, anel, pulseira ou relógio): ela usa SOMENTE esta peça. A roupa deve ser elegante e discreta, de tecido opaco e com forro, sem transparência e sem marcar o corpo (aparência de campanha de joalheria sofisticada). Foto editorial fotorrealista, estética minimalista e sofisticada, paleta bege, taupe e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo. Close na mão da modelo apoiada suavemente perto do rosto ou do colo, usando este anel no dedo médio. Unhas curtas em tom nude. Nenhum outro anel.",
+  "gerado_em": "2026-11-09 19:35",
+  "versao": 1794252903
+}
