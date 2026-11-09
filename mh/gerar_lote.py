@@ -28,7 +28,10 @@ if __name__ == "__main__":
         roupa_k, roupa = gerar.escolher_roupa(p)
         prompt = gerar.montar_prompt(p, roupa)
         imgs = [config.MODELO, p.get("_ref") or (config.FOTOS / p["foto_peca"])]
-        if not p.get("_ref") and gerar.usa_foto_em_uso(p):
+        if it.get("usar_em_uso") and p.get("foto_em_uso"):
+            prompt += " " + config.PROMPTS["referencia_em_uso"] + " Atenção: é UM colar só, de um único fio (não é colar duplo nem em camadas), como na terceira imagem."
+            imgs.append(config.FOTOS / p["foto_em_uso"])
+        elif not p.get("_ref") and gerar.usa_foto_em_uso(p):
             imgs.append(config.FOTOS / p["foto_em_uso"])
         saida = pasta / "fotos" / f"{it['codigo']}.png"
         for tentativa in range(2):
