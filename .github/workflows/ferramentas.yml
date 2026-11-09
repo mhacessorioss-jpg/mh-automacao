@@ -7,6 +7,10 @@ on:
         description: "Tarefa"
         required: true
         default: limpar_modelo
+      argumento:
+        description: "Argumento (ex.: caminho da imagem do Story)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -27,7 +31,13 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
-        run: python -m mh.${{ inputs.tarefa }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GRAPH_HOST: ${{ vars.GRAPH_HOST }}
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
+          TAREFA: ${{ inputs.tarefa }}
+          ARGUMENTO: ${{ inputs.argumento }}
+        run: python -m "mh.$TAREFA" $ARGUMENTO
       - name: Salvar
         run: |
           git config user.name "MH Robô"; git config user.email "robo@users.noreply.github.com"

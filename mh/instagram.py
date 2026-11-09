@@ -16,10 +16,14 @@ def _ok(r):
     return r.json()
 
 
-def publicar_foto(image_url: str, legenda: str) -> str:
+def publicar_foto(image_url: str, legenda: str = "", story: bool = False) -> str:
     tok = config.IG_ACCESS_TOKEN
-    cont = _ok(requests.post(_api(f"{config.IG_USER_ID}/media"),
-                             data={"image_url": image_url, "caption": legenda, "access_token": tok}, timeout=60))["id"]
+    dados = {"image_url": image_url, "access_token": tok}
+    if story:
+        dados["media_type"] = "STORIES"  # Story não tem legenda
+    else:
+        dados["caption"] = legenda
+    cont = _ok(requests.post(_api(f"{config.IG_USER_ID}/media"), data=dados, timeout=60))["id"]
     for _ in range(30):
         st = _ok(requests.get(_api(cont), params={"fields": "status_code", "access_token": tok}, timeout=30))
         if st.get("status_code") == "FINISHED":
@@ -29,5 +33,8 @@ def publicar_foto(image_url: str, legenda: str) -> str:
         time.sleep(5)
     media = _ok(requests.post(_api(f"{config.IG_USER_ID}/media_publish"),
                               data={"creation_id": cont, "access_token": tok}, timeout=60))["id"]
-    info = _ok(requests.get(_api(media), params={"fields": "permalink", "access_token": tok}, timeout=30))
-    return info.get("permalink", f"https://www.instagram.com/ (id {media})")
+    try:
+        info = _ok(requests.get(_api(media), params={"fields": "permalink", "access_token": tok}, timeout=30))
+        return info.get("permalink") or f"publicado (id {media})"
+    except Exception:
+        return f"publicado (id {media})"
