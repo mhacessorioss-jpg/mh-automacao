@@ -44,7 +44,8 @@ MODELOS_TEXTO_RESERVA = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-
 
 def gerar_texto(prompt: str) -> str:
     corpo = {"contents": [{"parts": [{"text": prompt}]}],
-             "generationConfig": {"temperature": 0.9, "maxOutputTokens": 400}}
+             "generationConfig": {"temperature": 0.9, "maxOutputTokens": 2048,
+                                  "thinkingConfig": {"thinkingBudget": 0}}}
     ultimo = None
     for modelo in [config.GEMINI_TEXT_MODEL] + MODELOS_TEXTO_RESERVA:
         try:

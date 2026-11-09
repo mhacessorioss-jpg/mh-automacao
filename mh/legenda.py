@@ -25,8 +25,8 @@ def _abertura_ia(p: dict) -> tuple[str, str]:
         "Linha 2: uma frase (até 18 palavras) que desperte desejo pela peça e diga quando usar."
     )
     linhas = [l.strip(" \"'") for l in gemini.gerar_texto(prompt).splitlines() if l.strip()]
-    if len(linhas) < 2:
-        raise ValueError("resposta incompleta")
+    if len(linhas) < 2 or linhas[1][-1] not in ".!?…" or len(linhas[1].split()) < 5:
+        raise ValueError(f"resposta incompleta: {linhas}")
     return linhas[0], linhas[1]
 
 
