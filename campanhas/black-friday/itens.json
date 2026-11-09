@@ -4,7 +4,8 @@
   "de": "41,75",
   "por": "35,00",
   "horario": "2026-11-09 19:00",
-  "usar_em_uso": true
+  "usar_em_uso": true,
+  "close": true
  },
  {
   "codigo": "CEB5170",
@@ -16,13 +17,15 @@
   "codigo": "COL14741",
   "de": "59,26",
   "por": "35,00",
-  "horario": "2026-11-09 21:30"
+  "horario": "2026-11-09 21:30",
+  "close": true
  },
  {
   "codigo": "COL14662",
   "de": "41,75",
   "por": "29,90",
-  "horario": "2026-11-10 08:30"
+  "horario": "2026-11-10 08:30",
+  "close": true
  },
  {
   "codigo": "BRI18931-2",
@@ -47,7 +50,7 @@
   "de": "48,76",
   "por": "29,90",
   "horario": "2026-11-10 18:00",
-  "foto_pronta": "fila/COL12362/post.jpg"
+  "close": true
  },
  {
   "codigo": "RELOGIO",
@@ -70,6 +73,7 @@
   "codigo": "COL14706-1",
   "de": "48,76",
   "por": "29,90",
-  "horario": "2026-11-10 21:30"
+  "horario": "2026-11-10 21:30",
+  "close": true
  }
 ]

@@ -33,6 +33,10 @@ if __name__ == "__main__":
             imgs.append(config.FOTOS / p["foto_em_uso"])
         elif not p.get("_ref") and gerar.usa_foto_em_uso(p):
             imgs.append(config.FOTOS / p["foto_em_uso"])
+        if it.get("close"):
+            prompt += (" ENQUADRAMENTO ESPECIAL (prioridade máxima): close-up de joalheria no PESCOÇO e no COLO da modelo, "
+                       "do queixo/lábios (cortados no alto da foto, olhos fora do quadro) até o início do peito. "
+                       "O colar fica no centro da foto, grande, nítido e em destaque, com cada detalhe visível.")
         saida = pasta / "fotos" / f"{it['codigo']}.png"
         for tentativa in range(2):
             try:
