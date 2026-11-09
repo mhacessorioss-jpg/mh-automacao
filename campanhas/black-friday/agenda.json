@@ -1,0 +1,68 @@
+[
+ {
+  "codigo": "COL14013",
+  "arquivo": "stories/01_COL14013.jpg",
+  "horario": "2026-11-09 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "CEB5170",
+  "arquivo": "stories/02_CEB5170.jpg",
+  "horario": "2026-11-09 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14741",
+  "arquivo": "stories/03_COL14741.jpg",
+  "horario": "2026-11-09 21:30",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14662",
+  "arquivo": "stories/04_COL14662.jpg",
+  "horario": "2026-11-10 08:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI18931-2",
+  "arquivo": "stories/05_BRI18931-2.jpg",
+  "horario": "2026-11-10 10:00",
+  "publicado": null
+ },
+ {
+  "codigo": "PUL7046",
+  "arquivo": "stories/06_PUL7046.jpg",
+  "horario": "2026-11-10 12:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI19641-2",
+  "arquivo": "stories/07_BRI19641-2.jpg",
+  "horario": "2026-11-10 13:30",
+  "publicado": null
+ },
+ {
+  "codigo": "COL12362",
+  "arquivo": "stories/08_COL12362.jpg",
+  "horario": "2026-11-10 18:00",
+  "publicado": null
+ },
+ {
+  "codigo": "RELOGIO",
+  "arquivo": "stories/09_RELOGIO.jpg",
+  "horario": "2026-11-10 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "PUL6713",
+  "arquivo": "stories/10_PUL6713.jpg",
+  "horario": "2026-11-10 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14706-1",
+  "arquivo": "stories/11_COL14706-1.jpg",
+  "horario": "2026-11-10 21:30",
+  "publicado": null
+ }
+]
