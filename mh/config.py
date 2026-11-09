@@ -13,9 +13,9 @@ PROMPTS = json.loads((RAIZ / "config" / "prompts.json").read_text(encoding="utf-
 MARCA = json.loads((RAIZ / "config" / "marca.json").read_text(encoding="utf-8"))
 
 # Segredos (no GitHub: Settings > Secrets and variables > Actions)
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
 IG_USER_ID = os.getenv("IG_USER_ID") or "17841401405850239"  # @mhacessorios_oficial (não é segredo)
-IG_ACCESS_TOKEN = os.getenv("IG_ACCESS_TOKEN", "")
+IG_ACCESS_TOKEN = "".join(os.getenv("IG_ACCESS_TOKEN", "").split()).strip("\"'")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 GITHUB_REPOSITORY = os.getenv("GITHUB_REPOSITORY", "")  # "usuario/repositorio", preenchido pelo Actions
 

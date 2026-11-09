@@ -6,6 +6,8 @@ import sys, time
 from . import config, instagram
 
 if __name__ == "__main__":
+    t = config.IG_ACCESS_TOKEN
+    print(f"token: {len(t)} caracteres, começa com {t[:3]!r}")
     caminho = sys.argv[1]
     url = config.url_publica(caminho) + f"?v={int(time.time())}"
     print("Story publicado:", instagram.publicar_foto(url, story=True))
