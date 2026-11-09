@@ -1,35 +1,45 @@
 name: 4 · Stories agendados
 
+# Um "vigia" que fica ligado por ~5h50 conferindo a agenda a cada minuto.
+# É religado a cada 5 horas (e pode ser ligado na mão em Actions > Run workflow).
 on:
   schedule:
-    - cron: "*/10 * * * *"   # confere a agenda a cada 10 minutos
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: mh-fila
-  cancel-in-progress: false
+  group: mh-agenda
+  cancel-in-progress: true
 
 jobs:
-  publicar:
+  vigiar:
     runs-on: ubuntu-latest
+    timeout-minutes: 358
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - name: Publicar Stories do horário
+      - name: Vigiar a agenda e publicar no horário
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           GRAPH_HOST: ${{ vars.GRAPH_HOST }}
           GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
         run: |
-          for c in campanhas/*/agenda.json; do [ -f "$c" ] && python -m mh.agenda_stories "$(dirname $c)"; done
-      - name: Salvar
-        run: |
           git config user.name "MH Robô"; git config user.email "robo@users.noreply.github.com"
-          git add campanhas && git commit -m "Stories agendados: atualização" || exit 0
-          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fim=$((SECONDS + 350*60))
+          while [ $SECONDS -lt $fim ]; do
+            git pull -q --rebase || true
+            for c in campanhas/*/agenda.json; do [ -f "$c" ] && python -m mh.agenda_stories "$(dirname $c)"; done
+            if ! git diff --quiet campanhas; then
+              git add campanhas && git commit -qm "Stories agendados: publicado"
+              for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
+            fi
+            pendentes=$(python -c "import json,glob;print(sum(1 for f in glob.glob('campanhas/*/agenda.json') for a in json.load(open(f)) if not a.get('publicado')))")
+            [ "$pendentes" = "0" ] && echo "Agenda vazia." && break
+            sleep 60
+          done
