@@ -1,0 +1,17 @@
+{
+  "produto": {
+    "codigo": "COL12362",
+    "nome_vitrine": "Choker Elos Grumet Lisos",
+    "categoria": "colar",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "descricao_fornecedor": "Choker Folheado a Ouro 18k Elos Grumet Lisos",
+    "foto_peca": "COL12362_02.jpg",
+    "foto_em_uso": "COL12362_01.jpg",
+    "ativo": "sim",
+    "motivo_inativo": ""
+  },
+  "prompt": "A PRIMEIRA imagem é a modelo oficial da marca MH Acessórios: mantenha exatamente o mesmo rosto, o cabelo castanho ondulado, a maquiagem natural, o blazer de linho bege com regata bege, o ambiente claro com plantas e janela e a luz natural suave. A SEGUNDA imagem é a joia 'Choker Elos Grumet Lisos' (Folheado a ouro 18k, cor dourado). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. Remova todas as outras joias da modelo: ela usa somente esta peça. Foto editorial fotorrealista, estética minimalista e sofisticada, tons bege e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo. A modelo usa este colar no pescoço, com o blazer levemente aberto mostrando o colo. Enquadramento do queixo até o peito, rosto de três quartos, parcialmente visível. A TERCEIRA imagem mostra a mesma joia sendo usada por outra pessoa: use-a APENAS para entender o tamanho e a forma de usar a peça. Não copie o rosto, o cabelo, a maquiagem, a roupa nem o fundo dessa foto.",
+  "gerado_em": "2026-11-09 15:25",
+  "versao": 1794237903
+}
