@@ -16,13 +16,16 @@ def _ok(r):
     return r.json()
 
 
-def publicar_foto(image_url: str, legenda: str = "", story: bool = False) -> str:
+def publicar_foto(image_url: str, legenda: str = "", story: bool = False, colaboradores=None) -> str:
     tok = config.IG_ACCESS_TOKEN
     dados = {"image_url": image_url, "access_token": tok}
     if story:
         dados["media_type"] = "STORIES"  # Story não tem legenda
     else:
         dados["caption"] = legenda
+        if colaboradores:
+            import json as _j
+            dados["collaborators"] = _j.dumps(list(colaboradores))
     cont = _ok(requests.post(_api(f"{config.IG_USER_ID}/media"), data=dados, timeout=60))["id"]
     for _ in range(30):
         st = _ok(requests.get(_api(cont), params={"fields": "status_code", "access_token": tok}, timeout=30))

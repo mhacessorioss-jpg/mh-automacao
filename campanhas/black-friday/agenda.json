@@ -82,5 +82,17 @@
   "arquivo": "stories2/PUL7033.jpg",
   "horario": "2026-11-10 19:00",
   "publicado": null
+ },
+ {
+  "codigo": "LIVE-HOJE",
+  "arquivo": "stories2/live_story_hoje.jpg",
+  "horario": "2026-11-11 09:00",
+  "publicado": null
+ },
+ {
+  "codigo": "LIVE-30MIN",
+  "arquivo": "stories2/live_story_30min.jpg",
+  "horario": "2026-11-11 11:30",
+  "publicado": null
  }
 ]
