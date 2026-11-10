@@ -22,5 +22,18 @@
   "por": "26,90",
   "extra": "O brinco é um botão dourado em formato de meia-esfera (domo) liso e muito polido, com brilho espelhado, tamanho médio-grande (cobre o lóbulo). Mostre o brinco com o cabelo atrás da orelha.",
   "extra_detalhe": "Par de brincos botão em meia-esfera dourada lisa e espelhada, idênticos à referência, com reflexos quentes."
+ },
+ {
+  "codigo": "INICIAL",
+  "marca": "valenra",
+  "nome": "Colar Inicial Bubble Cravejada",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k com zircônias",
+  "ref": "campanhas/valenra/ref/inicial.png",
+  "por": "25,00",
+  "close": true,
+  "extra": "O colar é uma corrente veneziana dourada fina com um pingente da letra R em estilo 'bubble' (letra gordinha e arredondada, como um balão), totalmente cravejada de pequenas zircônias brancas brilhantes, tamanho médio. Um único fio.",
+  "extra_detalhe": "Colar de corrente veneziana dourada fina com pingente da letra R estilo bubble (arredondada e volumosa) totalmente cravejada de zircônias brancas brilhantes, idêntico à referência."
  }
 ]
