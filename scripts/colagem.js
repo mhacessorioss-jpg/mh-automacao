@@ -38,7 +38,7 @@ body{width:1080px;height:1920px;position:relative;overflow:hidden;background:#F2
 <img class="selo" src="file://${__dirname}/selo.png">
 <div class="p"><div class="top"><div><div class="bf">Black <i>Friday</i></div><div class="nome">${nome}${mat?'<br>'+mat:''}</div></div>
 <div class="preco">${off>0?`<div class="off">${off}% OFF</div><div class="de">de <s>R$ ${it.de}</s></div><div class="por">por</div>`:`<div class="por">por apenas</div>`}<div class="valor"><small>R$</small>${it.por}</div></div></div>
-<div class="cta">RESPONDA "EU QUERO" PARA GARANTIR A SUA</div></div></body></html>`;
+<div class="cta">CHAME A GENTE NO PRIVADO E GARANTA A SUA</div></div></body></html>`;
  const hf=path.join(outD,'_t.html'); fs.writeFileSync(hf,html);
  const p=await b.newPage({viewport:{width:1080,height:1920}}); await p.goto('file://'+hf); await p.waitForTimeout(600);
  const nm=it.codigo+'.jpg'; await p.screenshot({path:path.join(outD,nm),type:'jpeg',quality:92}); await p.close(); console.log('ok',nm);

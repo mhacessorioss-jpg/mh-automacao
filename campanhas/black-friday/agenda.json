@@ -58,5 +58,23 @@
   "arquivo": "stories/10_PUL6713.jpg",
   "horario": "2026-11-10 20:30",
   "publicado": "PAUSADO (peças novas no lugar)"
+ },
+ {
+  "codigo": "CEB5149",
+  "arquivo": "stories2/CEB5149.jpg",
+  "horario": "2026-11-10 14:05",
+  "publicado": null
+ },
+ {
+  "codigo": "CEB5150",
+  "arquivo": "stories2/CEB5150.jpg",
+  "horario": "2026-11-10 18:00",
+  "publicado": null
+ },
+ {
+  "codigo": "PUL7047",
+  "arquivo": "stories2/PUL7047.jpg",
+  "horario": "2026-11-10 20:30",
+  "publicado": null
  }
 ]
