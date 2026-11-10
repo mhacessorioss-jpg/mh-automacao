@@ -3,7 +3,7 @@
 Uso: python -m mh.gerar_lote campanhas/black-friday [CODIGO ...]
 Lê <campanha>/itens.json e salva <campanha>/fotos/<codigo>.png
 """
-import json, sys, time
+import json, re, sys, time
 from pathlib import Path
 from . import config, estado, gemini, gerar
 
@@ -28,6 +28,11 @@ if __name__ == "__main__":
         roupa_k, roupa = gerar.escolher_roupa(p)
         prompt = gerar.montar_prompt(p, roupa)
         imgs = [config.MODELO, p.get("_ref") or (config.FOTOS / p["foto_peca"])]
+        if it.get("marca") == "valenra":  # segunda marca do grupo: outra modelo, mesma estrutura
+            imgs[0] = config.RAIZ / "marca" / "valenra_modelo_sem_joias.png"
+            prompt = re.sub(r"mantenha exatamente o mesmo rosto, .*?\. NÃO altere",
+                            "mantenha exatamente o mesmo rosto, " + config.PROMPTS["identidade_valenra"] + ". NÃO altere",
+                            prompt, count=1, flags=re.S).replace("marca MH Acessórios", "marca Valenra Semijoias")
         if it.get("usar_em_uso") and p.get("foto_em_uso"):
             prompt += " " + config.PROMPTS["referencia_em_uso"] + " Atenção: é UM colar só, de um único fio (não é colar duplo nem em camadas), como na terceira imagem."
             imgs.append(config.FOTOS / p["foto_em_uso"])
