@@ -10,5 +10,17 @@
   "por": "26,90",
   "extra": "O brinco é uma flor dourada de cinco pétalas com textura de linhas finas em relevo e uma bolinha dourada lisa no centro, tamanho médio (cobre o lóbulo). Mostre o brinco com o cabelo atrás da orelha.",
   "extra_detalhe": "Par de brincos em flor dourada de cinco pétalas com textura de linhas finas e bolinha lisa no centro, idênticos à referência."
+ },
+ {
+  "codigo": "A7",
+  "marca": "valenra",
+  "nome": "Brinco Bottom",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "campanhas/valenra/ref/A7.png",
+  "por": "26,90",
+  "extra": "O brinco é um botão dourado em formato de meia-esfera (domo) liso e muito polido, com brilho espelhado, tamanho médio-grande (cobre o lóbulo). Mostre o brinco com o cabelo atrás da orelha.",
+  "extra_detalhe": "Par de brincos botão em meia-esfera dourada lisa e espelhada, idênticos à referência, com reflexos quentes."
  }
 ]
