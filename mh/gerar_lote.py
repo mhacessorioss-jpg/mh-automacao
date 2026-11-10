@@ -37,6 +37,8 @@ if __name__ == "__main__":
             prompt += (" ENQUADRAMENTO ESPECIAL (prioridade máxima): close-up de joalheria no PESCOÇO e no COLO da modelo, "
                        "do queixo/lábios (cortados no alto da foto, olhos fora do quadro) até o início do peito. "
                        "O colar fica no centro da foto, grande, nítido e em destaque, com cada detalhe visível.")
+        if it.get("extra"):
+            prompt += " " + it["extra"]
         saida = pasta / "fotos" / f"{it['codigo']}.png"
         for tentativa in range(2):
             try:

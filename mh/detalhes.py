@@ -19,6 +19,8 @@ if __name__ == "__main__":
         p = produto(it)
         ref = p.get("_ref") or (config.FOTOS / p["foto_peca"])
         base = pr["base"].format(nome=p["nome_vitrine"], cor=p["cor"], material=p["material"])
+        if it.get("extra_detalhe"):
+            base += " " + it["extra_detalhe"]
         for i, cena in enumerate(pr["cenas"], 1):
             saida = pasta / "detalhes" / f"{it['codigo']}_{i}.png"
             for t in range(2):
