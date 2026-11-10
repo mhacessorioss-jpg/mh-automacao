@@ -13,6 +13,10 @@ PROMPT = (
 )
 
 if __name__ == "__main__":
-    saida = config.RAIZ / "marca" / "modelo_oficial_sem_joias.png"
-    gemini.gerar_imagem(PROMPT, [config.MODELO], saida)
+    import sys
+    from pathlib import Path
+    # Uso opcional: python -m mh.limpar_modelo <entrada> <saida>
+    entrada = config.RAIZ / sys.argv[1] if len(sys.argv) > 1 else config.MODELO
+    saida = config.RAIZ / sys.argv[2] if len(sys.argv) > 2 else config.RAIZ / "marca" / "modelo_oficial_sem_joias.png"
+    gemini.gerar_imagem(PROMPT, [entrada], saida)
     print("ok", saida)
