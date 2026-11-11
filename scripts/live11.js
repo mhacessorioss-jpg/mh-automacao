@@ -29,8 +29,8 @@ body{width:1080px;height:1350px;background:#F2E8DC;position:relative;overflow:hi
 </style></head><body>
 <div class="g"><div style="background-image:url('file://${f1}')"></div><div style="background-image:url('file://${f2}')"></div></div>
 <div class="live">LIVE 11.11</div><img class="selo" src="file:///home/claude/mh-automacao/marca/selo_branco.png" style="filter:drop-shadow(0 1px 4px rgba(0,0,0,.4))">
-<div class="p"><div><div class="t">Live <i>11.11</i></div><div class="n">${it.nome}<br>Folheado a ouro 18k<br><span style="color:#D2A86E;font-weight:500">CÓD. ${it.codigo}</span></div>${it.obs?`<div class="o">${it.obs}</div>`:''}</div>
-<div class="pr"><div class="pa">por apenas</div><div class="v"><small>R$</small>11,00</div><div class="av">À VISTA</div></div>
+<div class="p"><div><div class="t">Live <i>11.11</i></div><div class="n">${it.nome}<br>${it.material||"Folheado a ouro 18k"}<br><span style="color:#D2A86E;font-weight:500">CÓD. ${it.codigo}</span></div>${it.obs?`<div class="o">${it.obs}</div>`:''}</div>
+<div class="pr"><div class="pa">por apenas</div><div class="v"><small>R$</small>${it.preco||"11,00"}</div><div class="av">À VISTA</div></div>
 <div class="cta">SÓ NA LIVE · CHAME A GENTE NO PRIVADO E GARANTA A SUA</div></div></body></html>`;
  const hf=path.join(out,'_t.html'); fs.writeFileSync(hf,html);
  const p=await b.newPage({viewport:{width:1080,height:1350}}); await p.goto('file://'+hf); await p.waitForTimeout(400);
