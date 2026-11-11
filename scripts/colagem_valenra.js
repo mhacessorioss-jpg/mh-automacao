@@ -36,7 +36,7 @@ body{width:1080px;height:1920px;position:relative;overflow:hidden;background:#FB
 </style></head><body>
 <div class="g"><div class="m" style="background-image:url('file://${foto}')"></div><div style="background-image:url('file://${d1}')"></div><div style="background-image:url('file://${d2}')"></div></div>
 <img class="selo" src="file://${__dirname}/valenra_logo_claro.png">
-<div class="p"><div class="top"><div><div class="bf">Black <i>Friday</i></div><div class="nome">${nome}${mat?'<br>'+mat:''}</div></div>
+<div class="p"><div class="top"><div><div class="bf">Black <i>Friday</i></div><div class="nome">${nome}${mat?'<br>'+mat:''}<br><span style="color:#D2A86E;font-weight:500">CÓD. ${it.codigo}</span></div></div>
 <div class="preco">${off>0?`<div class="off">${off}% OFF</div><div class="de">de <s>R$ ${it.de}</s></div><div class="por">por</div>`:`<div class="por">por apenas</div>`}<div class="valor"><small>R$</small>${it.por}</div></div></div>
 <div class="cta">CHAME A GENTE NO PRIVADO E GARANTA A SUA</div></div></body></html>`;
  const hf=path.join(outD,'_t.html'); fs.writeFileSync(hf,html);
