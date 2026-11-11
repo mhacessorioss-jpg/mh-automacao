@@ -1,0 +1,18 @@
+{
+  "produto": {
+    "codigo": "BRI16678-1",
+    "nome_vitrine": "Trio de Brinco Gota Cristal",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "descricao_fornecedor": "Trio de Brinco Folheado a Ouro 18k e Prata Gota Cristal - Ouro",
+    "foto_peca": "BRI16678-1_01.jpg",
+    "foto_em_uso": "",
+    "ativo": "sim",
+    "motivo_inativo": ""
+  },
+  "roupa": "regata_tricot",
+  "prompt": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, a pele bronzeada dourada e luminosa, o cabelo castanho longo e ondulado com mechas cor de mel, as sobrancelhas marcadas, os olhos castanhos e a maquiagem glam suave (pele iluminada com highlighter, olhos esfumados em tons de bronze, cílios definidos, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste regata de tricô fino na cor areia. LUZ E CLIMA: luz quente e dourada de fim de tarde (golden hour), pele com brilho saudável, cores quentes e ricas, contraste suave porém marcante; a foto NÃO pode ficar apagada, lavada, acinzentada ou sem cor. Fundo liso em tons de bege e areia (parede texturizada ou pedra travertino), levemente desfocado. A SEGUNDA imagem é a joia 'Trio de Brinco Gota Cristal' (Folheado a ouro 18k, cor dourado). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. O metal dourado deve brilhar com reflexos quentes; se a peça for prateada, mantenha prateada. Remova TODAS as outras joias e acessórios da modelo (nenhum outro brinco, ear cuff, piercing, colar, anel, pulseira ou relógio): ela usa SOMENTE esta peça. A roupa deve ser elegante e discreta, de tecido opaco e com forro, sem transparência e sem marcar o corpo (aparência de campanha de joalheria sofisticada). Foto editorial fotorrealista de joalheria de luxo, paleta bege, caramelo, dourado e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo. A modelo está de perfil ou de três quartos, com o cabelo preso atrás da orelha, usando este brinco. Se a referência mostrar um trio de brincos, use os três na mesma orelha, um em cada furo, do menor (no alto) para o maior (no lóbulo). Close na orelha e no maxilar, fundo desfocado.",
+  "gerado_em": "2026-11-11 13:18",
+  "versao": 1794403091
+}
