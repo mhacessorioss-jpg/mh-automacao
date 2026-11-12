@@ -153,7 +153,7 @@
   "por": "14,90",
   "qtd": 1,
   "custo": 20.93,
-  "shopee": 61.9
+  "shopee": 39.9
  },
  {
   "codigo": "BRI20375-1",
@@ -362,7 +362,9 @@
   "ref": "fotos/COL14101_02.png",
   "de": "38,25",
   "por": "10,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 10.93,
+  "shopee": 36.9
  },
  {
   "codigo": "COL14009",
