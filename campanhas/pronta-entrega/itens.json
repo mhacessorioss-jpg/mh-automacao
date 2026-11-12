@@ -22,8 +22,8 @@
   "de": "27,76",
   "por": "14,90",
   "qtd": 3,
-  "custo": 7.93,
-  "shopee": 28.9
+  "custo": 6.34,
+  "shopee": 24.9
  },
  {
   "codigo": "TO562",
@@ -35,8 +35,8 @@
   "de": "27,76",
   "por": "14,90",
   "qtd": 2,
-  "custo": 7.93,
-  "shopee": 28.9
+  "custo": 6.34,
+  "shopee": 24.9
  },
  {
   "codigo": "BRI20551-1",
@@ -48,8 +48,8 @@
   "de": "69,76",
   "por": "29,90",
   "qtd": 1,
-  "custo": 19.93,
-  "shopee": 58.9
+  "custo": 15.94,
+  "shopee": 48.9
  },
  {
   "codigo": "BRI20552-1",
@@ -61,8 +61,8 @@
   "de": "69,76",
   "por": "29,90",
   "qtd": 2,
-  "custo": 19.93,
-  "shopee": 58.9
+  "custo": 15.94,
+  "shopee": 48.9
  },
  {
   "codigo": "BRI20338-1",
@@ -74,8 +74,8 @@
   "de": "27,76",
   "por": "14,90",
   "qtd": 1,
-  "custo": 7.93,
-  "shopee": 28.9
+  "custo": 6.34,
+  "shopee": 24.9
  },
  {
   "codigo": "BRI20472",
@@ -87,8 +87,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "BRI20475-1",
@@ -100,8 +100,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "BRI20468",
@@ -113,8 +113,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "BRI20473-1",
@@ -126,8 +126,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "BRI20124-1",
@@ -139,8 +139,8 @@
   "de": "41,75",
   "por": "17,90",
   "qtd": 1,
-  "custo": 11.93,
-  "shopee": 38.9
+  "custo": 9.54,
+  "shopee": 32.9
  },
  {
   "codigo": "BRI20218",
@@ -165,8 +165,8 @@
   "de": "55,76",
   "por": "29,90",
   "qtd": 1,
-  "custo": 15.93,
-  "shopee": 48.9
+  "custo": 12.74,
+  "shopee": 40.9
  },
  {
   "codigo": "BRI20455-1",
@@ -178,8 +178,8 @@
   "de": "69,76",
   "por": "29,90",
   "qtd": 1,
-  "custo": 19.93,
-  "shopee": 58.9
+  "custo": 15.94,
+  "shopee": 48.9
  },
  {
   "codigo": "BRI14333-1",
@@ -191,8 +191,8 @@
   "de": "20,76",
   "por": "15,00",
   "qtd": 1,
-  "custo": 5.93,
-  "shopee": 23.9
+  "custo": 4.74,
+  "shopee": 20.9
  },
  {
   "codigo": "AN3668-1",
@@ -230,8 +230,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "AN3371-2",
@@ -243,8 +243,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "AN3696-4",
@@ -282,8 +282,8 @@
   "de": "24,26",
   "por": "15,00",
   "qtd": 1,
-  "custo": 6.93,
-  "shopee": 26.9
+  "custo": 5.54,
+  "shopee": 22.9
  },
  {
   "codigo": "AN3624-1",
@@ -309,8 +309,8 @@
   "por": "19,90",
   "qtd": 1,
   "foto_pronta": true,
-  "custo": 13.93,
-  "shopee": 43.9
+  "custo": 11.14,
+  "shopee": 36.9
  },
  {
   "codigo": "COL14662",
@@ -323,8 +323,8 @@
   "por": "19,90",
   "qtd": 2,
   "foto_pronta": true,
-  "custo": 11.93,
-  "shopee": 38.9
+  "custo": 9.54,
+  "shopee": 32.9
  },
  {
   "codigo": "COL14741",
@@ -337,8 +337,8 @@
   "por": "19,90",
   "qtd": 1,
   "foto_pronta": true,
-  "custo": 16.93,
-  "shopee": 51.9
+  "custo": 13.54,
+  "shopee": 42.9
  },
  {
   "codigo": "CEB5151",
@@ -350,8 +350,8 @@
   "de": "39,72",
   "por": "24,90",
   "qtd": 1,
-  "custo": 9.93,
-  "shopee": 33.9
+  "custo": 7.94,
+  "shopee": 28.9
  },
  {
   "codigo": "COL14101",
@@ -387,8 +387,8 @@
   "de": "39,72",
   "por": "24,90",
   "qtd": 1,
-  "custo": 9.93,
-  "shopee": 33.9
+  "custo": 7.94,
+  "shopee": 28.9
  },
  {
   "codigo": "CEB5152",
@@ -400,8 +400,8 @@
   "de": "39,72",
   "por": "24,90",
   "qtd": 1,
-  "custo": 13.93,
-  "shopee": 43.9
+  "custo": 11.14,
+  "shopee": 36.9
  },
  {
   "codigo": "BRI19935-2",
@@ -413,8 +413,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 1,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI19641-2",
@@ -427,8 +427,8 @@
   "por": "10,00",
   "qtd": 2,
   "foto_pronta": true,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI18931-2",
@@ -441,8 +441,8 @@
   "por": "10,00",
   "qtd": 1,
   "foto_pronta": true,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI19741-2",
@@ -454,8 +454,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 2,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI20226-2",
@@ -467,8 +467,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 3,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI20037-2",
@@ -480,8 +480,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 3,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI19065-2",
@@ -493,8 +493,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 1,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "BRI19643-2",
@@ -506,8 +506,8 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 1,
-  "custo": 4.99,
-  "shopee": 21.9
+  "custo": 3.99,
+  "shopee": 18.9
  },
  {
   "codigo": "PG1033-2",
@@ -519,6 +519,7 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 1,
-  "custo": 9.93
+  "custo": 9.93,
+  "shopee": 33.9
  }
 ]
