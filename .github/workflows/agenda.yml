@@ -4,7 +4,7 @@ name: 4 · Stories agendados
 # É religado a cada 5 horas (e pode ser ligado na mão em Actions > Run workflow).
 on:
   schedule:
-    - cron: "0 */5 * * *"
+    - cron: "10 * * * *"
   workflow_dispatch:
 
 permissions:
