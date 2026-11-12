@@ -351,9 +351,10 @@
   "ref": "fotos/CEB5151_02.jpg",
   "de": "39,72",
   "por": "24,90",
-  "qtd": 1,
+  "qtd": 0,
   "custo": 7.94,
-  "shopee": 28.9
+  "shopee": 28.9,
+  "vendido": "2026-11-12"
  },
  {
   "codigo": "COL14101",
