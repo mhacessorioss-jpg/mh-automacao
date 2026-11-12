@@ -23,6 +23,8 @@ if __name__ == "__main__":
             base += " " + it["extra_detalhe"]
         for i, cena in enumerate(pr["cenas"], 1):
             saida = pasta / "detalhes" / f"{it['codigo']}_{i}.png"
+            if saida.exists():  # PULAR_EXISTENTES
+                continue
             for t in range(2):
                 try:
                     gemini.gerar_imagem(base + " " + cena, [ref], saida); print("ok", saida.name); break
