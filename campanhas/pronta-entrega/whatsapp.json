@@ -1,0 +1,120 @@
+[
+ {
+  "horario": "2026-11-12 16:00",
+  "codigos": [
+   "CEB4716-5",
+   "TO560",
+   "BRI20551-1"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-12 20:00",
+  "codigos": [
+   "AN3668-1",
+   "COL12362",
+   "BRI19935-2"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-13 10:00",
+  "codigos": [
+   "CEB5151",
+   "TO562",
+   "BRI20552-1"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-13 14:30",
+  "codigos": [
+   "AN3693-4",
+   "COL14662",
+   "BRI19641-2"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-13 19:30",
+  "codigos": [
+   "CEB5148",
+   "BRI20338-1",
+   "AN3682"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-14 11:00",
+  "codigos": [
+   "COL14741",
+   "BRI18931-2",
+   "CEB5152"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-14 15:30",
+  "codigos": [
+   "BRI20472",
+   "AN3371-2",
+   "COL14101"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-14 20:30",
+  "codigos": [
+   "BRI19741-2",
+   "BRI20475-1",
+   "AN3696-4"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-15 10:30",
+  "codigos": [
+   "COL14009",
+   "BRI20226-2",
+   "BRI20468"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-15 14:00",
+  "codigos": [
+   "AN3696-3",
+   "BRI20037-2",
+   "BRI20473-1"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-15 19:00",
+  "codigos": [
+   "AN3686",
+   "BRI19065-2",
+   "BRI20124-1"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-16 11:30",
+  "codigos": [
+   "AN3624-1",
+   "BRI19643-2",
+   "BRI20218"
+  ],
+  "enviado": null
+ },
+ {
+  "horario": "2026-11-16 16:00",
+  "codigos": [
+   "PG1033-2",
+   "BRI20375-1",
+   "BRI20455-1",
+   "BRI14333-1"
+  ],
+  "enviado": null
+ }
+]
