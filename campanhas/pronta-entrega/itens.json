@@ -8,7 +8,9 @@
   "ref": "fotos/CEB4716-5_01.jpg",
   "de": "55,87",
   "por": "24,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 16.93,
+  "shopee": 51.9
  },
  {
   "codigo": "TO560",
@@ -19,7 +21,9 @@
   "ref": "fotos/TO560_01.jpg",
   "de": "27,76",
   "por": "14,90",
-  "qtd": 3
+  "qtd": 3,
+  "custo": 7.93,
+  "shopee": 28.9
  },
  {
   "codigo": "TO562",
@@ -30,7 +34,9 @@
   "ref": "fotos/TO562_01.jpg",
   "de": "27,76",
   "por": "14,90",
-  "qtd": 2
+  "qtd": 2,
+  "custo": 7.93,
+  "shopee": 28.9
  },
  {
   "codigo": "BRI20551-1",
@@ -41,7 +47,9 @@
   "ref": "fotos/BRI20551-1_02.jpg",
   "de": "69,76",
   "por": "29,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 19.93,
+  "shopee": 58.9
  },
  {
   "codigo": "BRI20552-1",
@@ -52,7 +60,9 @@
   "ref": "fotos/BRI20552-1_02.jpg",
   "de": "69,76",
   "por": "29,90",
-  "qtd": 2
+  "qtd": 2,
+  "custo": 19.93,
+  "shopee": 58.9
  },
  {
   "codigo": "BRI20338-1",
@@ -63,7 +73,9 @@
   "ref": "fotos/BRI20338-1_02.jpg",
   "de": "27,76",
   "por": "14,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 7.93,
+  "shopee": 28.9
  },
  {
   "codigo": "BRI20472",
@@ -74,7 +86,9 @@
   "ref": "fotos/BRI20472_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "BRI20475-1",
@@ -85,7 +99,9 @@
   "ref": "fotos/BRI20475-1_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "BRI20468",
@@ -96,7 +112,9 @@
   "ref": "fotos/BRI20468_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "BRI20473-1",
@@ -107,7 +125,9 @@
   "ref": "fotos/BRI20473-1_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "BRI20124-1",
@@ -118,7 +138,9 @@
   "ref": "fotos/BRI20124-1_02.jpg",
   "de": "41,75",
   "por": "17,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 11.93,
+  "shopee": 38.9
  },
  {
   "codigo": "BRI20218",
@@ -129,7 +151,9 @@
   "ref": "fotos/BRI20218_02.jpg",
   "de": "73,26",
   "por": "14,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 20.93,
+  "shopee": 61.9
  },
  {
   "codigo": "BRI20375-1",
@@ -140,7 +164,9 @@
   "ref": "fotos/BRI20375-1_02.jpg",
   "de": "55,76",
   "por": "29,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 15.93,
+  "shopee": 48.9
  },
  {
   "codigo": "BRI20455-1",
@@ -151,7 +177,9 @@
   "ref": "fotos/BRI20455-1_02.jpg",
   "de": "69,76",
   "por": "29,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 19.93,
+  "shopee": 58.9
  },
  {
   "codigo": "BRI14333-1",
@@ -162,7 +190,9 @@
   "ref": "fotos/BRI14333-1_02.png",
   "de": "20,76",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 5.93,
+  "shopee": 23.9
  },
  {
   "codigo": "AN3668-1",
@@ -173,7 +203,9 @@
   "ref": "fotos/AN3668-1_02.jpg",
   "de": "17,47",
   "por": "14,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "AN3693-4",
@@ -184,7 +216,9 @@
   "ref": "fotos/AN3693-4_02.jpg",
   "de": "17,47",
   "por": "14,90",
-  "qtd": 3
+  "qtd": 3,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "AN3682",
@@ -195,7 +229,9 @@
   "ref": "fotos/AN3682_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "AN3371-2",
@@ -206,7 +242,9 @@
   "ref": "fotos/AN3371-2_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "AN3696-4",
@@ -217,7 +255,9 @@
   "ref": "fotos/AN3696-3_02.jpg",
   "de": "31,26",
   "por": "12,90",
-  "qtd": 2
+  "qtd": 2,
+  "custo": 8.93,
+  "shopee": 31.9
  },
  {
   "codigo": "AN3696-3",
@@ -228,7 +268,9 @@
   "ref": "fotos/AN3696-3_02.jpg",
   "de": "31,26",
   "por": "12,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 8.93,
+  "shopee": 31.9
  },
  {
   "codigo": "AN3686",
@@ -239,7 +281,9 @@
   "ref": "fotos/AN3686_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "AN3624-1",
@@ -250,7 +294,9 @@
   "ref": "fotos/AN3624-1_02.jpg",
   "de": "24,26",
   "por": "15,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 6.93,
+  "shopee": 26.9
  },
  {
   "codigo": "COL12362",
@@ -262,7 +308,9 @@
   "de": "48,76",
   "por": "19,90",
   "qtd": 1,
-  "foto_pronta": true
+  "foto_pronta": true,
+  "custo": 13.93,
+  "shopee": 43.9
  },
  {
   "codigo": "COL14662",
@@ -274,7 +322,9 @@
   "de": "41,75",
   "por": "19,90",
   "qtd": 2,
-  "foto_pronta": true
+  "foto_pronta": true,
+  "custo": 11.93,
+  "shopee": 38.9
  },
  {
   "codigo": "COL14741",
@@ -286,7 +336,9 @@
   "de": "59,26",
   "por": "19,90",
   "qtd": 1,
-  "foto_pronta": true
+  "foto_pronta": true,
+  "custo": 16.93,
+  "shopee": 51.9
  },
  {
   "codigo": "CEB5151",
@@ -297,6 +349,19 @@
   "ref": "fotos/CEB5151_02.jpg",
   "de": "39,72",
   "por": "24,90",
+  "qtd": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "COL14101",
+  "nome": "Colar Trevo Vermelho",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL14101_02.png",
+  "de": "38,25",
+  "por": "10,90",
   "qtd": 1
  },
  {
@@ -308,7 +373,9 @@
   "ref": "fotos/COL14009_02.jpg",
   "de": "41,75",
   "por": "19,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 11.93,
+  "shopee": 38.9
  },
  {
   "codigo": "CEB5148",
@@ -319,7 +386,9 @@
   "ref": "fotos/CEB5148_02.jpg",
   "de": "39,72",
   "por": "24,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 9.93,
+  "shopee": 33.9
  },
  {
   "codigo": "CEB5152",
@@ -330,7 +399,9 @@
   "ref": "fotos/CEB5152_02.jpg",
   "de": "39,72",
   "por": "24,90",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 13.93,
+  "shopee": 43.9
  },
  {
   "codigo": "BRI19935-2",
@@ -341,7 +412,9 @@
   "ref": "fotos/BRI19935-2_02.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI19641-2",
@@ -353,7 +426,9 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 2,
-  "foto_pronta": true
+  "foto_pronta": true,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI18931-2",
@@ -365,7 +440,9 @@
   "de": "17,47",
   "por": "10,00",
   "qtd": 1,
-  "foto_pronta": true
+  "foto_pronta": true,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI19741-2",
@@ -376,7 +453,9 @@
   "ref": "fotos/BRI19741-2_01.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 2
+  "qtd": 2,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI20226-2",
@@ -387,7 +466,9 @@
   "ref": "fotos/BRI20226-2_02.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 3
+  "qtd": 3,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI20037-2",
@@ -398,7 +479,9 @@
   "ref": "fotos/BRI20037-2_02.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 3
+  "qtd": 3,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI19065-2",
@@ -409,7 +492,9 @@
   "ref": "fotos/BRI19065-2_02.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 4.99,
+  "shopee": 21.9
  },
  {
   "codigo": "BRI19643-2",
@@ -420,6 +505,20 @@
   "ref": "fotos/BRI19643_02.jpg",
   "de": "17,47",
   "por": "10,00",
-  "qtd": 1
+  "qtd": 1,
+  "custo": 4.99,
+  "shopee": 21.9
+ },
+ {
+  "codigo": "PG1033-2",
+  "nome": "Piercing com Zircônias",
+  "categoria": "piercing",
+  "cor": "prateado",
+  "material": "Folheado a prata",
+  "ref": "fotos/PG1033-2_02.png",
+  "de": "17,47",
+  "por": "10,00",
+  "qtd": 1,
+  "custo": 9.93
  }
 ]
