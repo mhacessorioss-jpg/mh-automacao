@@ -1,355 +1,356 @@
 [
- {
-  "codigo": "AN4274-3",
-  "nome": "Anel Aparador Zircônias",
-  "categoria": "anel",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/AN4274-3_01.jpg"
- },
- {
-  "codigo": "AN5445-5",
-  "nome": "Anel Ponto de Luz Design Fino",
-  "categoria": "anel",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/AN5445-5_01.jpg"
- },
- {
-  "codigo": "AN5447-5",
-  "nome": "Anel Elos Entrelaçados",
-  "categoria": "anel",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/AN5447-5_02.jpg"
- },
- {
-  "codigo": "AN5472-5",
-  "nome": "Anel Esfera Texturizado",
-  "categoria": "anel",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/AN5472-5_02.jpg"
- },
- {
-  "codigo": "BRA4576-1",
-  "nome": "Bracelete Aro com Cristais",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRA4576-1_01.jpg"
- },
- {
-  "codigo": "BRI16678-1",
-  "nome": "Trio de Brincos Gota Cristal",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI16678-1_01.jpg"
- },
- {
-  "codigo": "BRI21672",
-  "nome": "Semaninha de Brincos Esferas",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI21672_01.jpg",
-  "extra": "É um kit 'semaninha' com 7 pares de brincos pequenos (um para cada dia). A modelo usa APENAS UM par: os brincos de esfera dourada lisa."
- },
- {
-  "codigo": "BRI22079",
-  "nome": "Brinco Trevo Texturizado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI22079_02.jpg"
- },
- {
-  "codigo": "BRI22464-1",
-  "nome": "Brinco Trevo e Estrela Resinado Branco",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI22464-1_01.jpg"
- },
- {
-  "codigo": "BRI22464-2",
-  "nome": "Brinco Trevo e Estrela Resinado Preto",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI22464-2_01.jpg"
- },
- {
-  "codigo": "BRI22580-1",
-  "nome": "Brinco Elos",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI22580-1_02.jpg"
- },
- {
-  "codigo": "BRI23096",
-  "nome": "Brinco Círculo Martelado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI23096_02.jpg"
- },
- {
-  "codigo": "BRI23996",
-  "nome": "Brinco Ponto de Luz Duplo",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI23996_01.jpg"
- },
- {
-  "codigo": "BRI25079-1",
-  "nome": "Trio de Brincos Argola de Esferas",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25079-1_02.jpg"
- },
- {
-  "codigo": "BRI25086-1",
-  "nome": "Brinco Duplo Design Triângulo",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25086-1_02.jpg"
- },
- {
-  "codigo": "BRI25088-1",
-  "nome": "Brinco Duplo Design Oval",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25088-1_02.jpg"
- },
- {
-  "codigo": "BRI25405-2",
-  "nome": "Brinco Argolinha com Trevo Resinado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25405-2_02.jpg"
- },
- {
-  "codigo": "BRI25531",
-  "nome": "Trio de Brincos Ponto de Luz, Flor e Cristal Pink",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25531_02.jpg"
- },
- {
-  "codigo": "BRI25544-1",
-  "nome": "Brinco Maxi Círculo Martelado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25544-1_02.jpg"
- },
- {
-  "codigo": "BRI25564",
-  "nome": "Brinco Botton Texturizado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25564_02.jpg"
- },
- {
-  "codigo": "BRI25567",
-  "nome": "Brinco Botton Texturizado Espiral",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25567_02.jpg"
- },
- {
-  "codigo": "BRI25645",
-  "nome": "Brinco Ponteira Elos Fios",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25645_02.jpg"
- },
- {
-  "codigo": "BRI25742",
-  "nome": "Brinco Argola Anzol",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25742_02.jpg"
- },
- {
-  "codigo": "BRI25743",
-  "nome": "Trio de Argolas P, M e G",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25743_01.jpg"
- },
- {
-  "codigo": "BRI25808",
-  "nome": "Trio de Brincos Esfera e Pérola",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25808_02.jpg"
- },
- {
-  "codigo": "BRI25810",
-  "nome": "Trio de Brincos Trevo, Cristal e Esfera",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI25810_02.jpg"
- },
- {
-  "codigo": "BRI26027",
-  "nome": "Brinco Borboleta Detalhada",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26027_02.jpg"
- },
- {
-  "codigo": "BRI26071-1",
-  "nome": "Brinco Design Martelado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26071-1_02.jpg"
- },
- {
-  "codigo": "BRI26112",
-  "nome": "Brinco Oval Martelado com Borda Lisa",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26112_02.jpg"
- },
- {
-  "codigo": "BRI26195",
-  "nome": "Brinco Design Trançado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26195_02.jpg"
- },
- {
-  "codigo": "BRI26197",
-  "nome": "Brinco Orgânico Vazado",
-  "categoria": "brinco",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26197_02.jpg"
- },
- {
-  "codigo": "CEB6914-1",
-  "nome": "Conjunto Colar e Brinco Nossa Senhora",
-  "categoria": "conjunto",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/CEB6914-1_01.jpg"
- },
- {
-  "codigo": "COL16297",
-  "nome": "Colar Veneziana com Nossa Senhora Zircônia",
-  "categoria": "colar",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/COL16297_02.jpg"
- },
- {
-  "codigo": "COL17145-1",
-  "nome": "Colar Escapulário Cruz com Micro Zircônias",
-  "categoria": "colar",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/COL17145-1_01.jpg"
- },
- {
-  "codigo": "COL17159-1",
-  "nome": "Colar Escapulário São Bento",
-  "categoria": "colar",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/COL17159-1_02.jpg"
- },
- {
-  "codigo": "COL17201-1",
-  "nome": "Colar Escapulário Pela Graça Sois Salvos",
-  "categoria": "colar",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/COL17201-1_02.jpg"
- },
- {
-  "codigo": "PUL6490",
-  "nome": "Pulseira Elos Maxi Texturizados",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL6490_02.jpg"
- },
- {
-  "codigo": "PUL7312",
-  "nome": "Pulseira Elos Longos Lisos",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL7312_02.jpg"
- },
- {
-  "codigo": "PUL8287",
-  "nome": "Pulseira Elos Maxi Duplo",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8287_02.jpg"
- },
- {
-  "codigo": "PUL8288",
-  "nome": "Pulseira Elos Texturizados",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8288_02.jpg"
- },
- {
-  "codigo": "PUL8415",
-  "nome": "Pulseira Design Flor Resinado",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8415_02.jpg"
- },
- {
-  "codigo": "PUL8430",
-  "nome": "Pulseira Esferas Texturizadas e Vazadas",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8430_02.jpg"
- },
- {
-  "codigo": "PUL8432",
-  "nome": "Pulseira Círculos Texturizados com Ponto de Luz",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8432_02.jpg"
- },
- {
-  "codigo": "PUL8452",
-  "nome": "Pulseira Corações e Cristais Coloridos",
-  "categoria": "pulseira",
-  "cor": "dourado",
-  "material": "Folheado a ouro 18k",
-  "ref": "fotos/PUL8452_02.jpg"
- }
+  {
+    "codigo": "AN4274-3",
+    "nome": "Anel Aparador Zircônias",
+    "categoria": "anel",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/AN4274-3_01.jpg"
+  },
+  {
+    "codigo": "AN5445-5",
+    "nome": "Anel Ponto de Luz Design Fino",
+    "categoria": "anel",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/AN5445-5_01.jpg"
+  },
+  {
+    "codigo": "AN5447-5",
+    "nome": "Anel Elos Entrelaçados",
+    "categoria": "anel",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/AN5447-5_02.jpg"
+  },
+  {
+    "codigo": "AN5472-5",
+    "nome": "Anel Esfera Texturizado",
+    "categoria": "anel",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/AN5472-5_02.jpg"
+  },
+  {
+    "codigo": "BRA4576-1",
+    "nome": "Bracelete Aro com Cristais",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRA4576-1_01.jpg"
+  },
+  {
+    "codigo": "BRI16678-1",
+    "nome": "Trio de Brincos Gota Cristal",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI16678-1_01.jpg"
+  },
+  {
+    "codigo": "BRI21672",
+    "nome": "Semaninha de Brincos Esferas",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI21672_01.jpg",
+    "extra": "É um kit 'semaninha' com 7 pares de brincos pequenos (um para cada dia). A modelo usa APENAS UM par: os brincos de esfera dourada lisa."
+  },
+  {
+    "codigo": "BRI22079",
+    "nome": "Brinco Trevo Texturizado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI22079_02.jpg",
+    "extra_detalhe": "The earring is 100% polished gold metal: a round gold disc with a raised four-leaf clover relief, also in gold. NO black enamel, NO color, NO stones."
+  },
+  {
+    "codigo": "BRI22464-1",
+    "nome": "Brinco Trevo e Estrela Resinado Branco",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI22464-1_01.jpg"
+  },
+  {
+    "codigo": "BRI22464-2",
+    "nome": "Brinco Trevo e Estrela Resinado Preto",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI22464-2_01.jpg"
+  },
+  {
+    "codigo": "BRI22580-1",
+    "nome": "Brinco Elos",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI22580-1_02.jpg"
+  },
+  {
+    "codigo": "BRI23096",
+    "nome": "Brinco Círculo Martelado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI23096_02.jpg"
+  },
+  {
+    "codigo": "BRI23996",
+    "nome": "Brinco Ponto de Luz Duplo",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI23996_01.jpg"
+  },
+  {
+    "codigo": "BRI25079-1",
+    "nome": "Trio de Brincos Argola de Esferas",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25079-1_02.jpg"
+  },
+  {
+    "codigo": "BRI25086-1",
+    "nome": "Brinco Duplo Design Triângulo",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25086-1_02.jpg"
+  },
+  {
+    "codigo": "BRI25088-1",
+    "nome": "Brinco Duplo Design Oval",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25088-1_02.jpg"
+  },
+  {
+    "codigo": "BRI25405-2",
+    "nome": "Brinco Argolinha com Trevo Resinado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25405-2_02.jpg"
+  },
+  {
+    "codigo": "BRI25531",
+    "nome": "Trio de Brincos Ponto de Luz, Flor e Cristal Pink",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25531_02.jpg"
+  },
+  {
+    "codigo": "BRI25544-1",
+    "nome": "Brinco Maxi Círculo Martelado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25544-1_02.jpg"
+  },
+  {
+    "codigo": "BRI25564",
+    "nome": "Brinco Botton Texturizado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25564_02.jpg"
+  },
+  {
+    "codigo": "BRI25567",
+    "nome": "Brinco Botton Texturizado Espiral",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25567_02.jpg"
+  },
+  {
+    "codigo": "BRI25645",
+    "nome": "Brinco Ponteira Elos Fios",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25645_02.jpg"
+  },
+  {
+    "codigo": "BRI25742",
+    "nome": "Brinco Argola Anzol",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25742_02.jpg"
+  },
+  {
+    "codigo": "BRI25743",
+    "nome": "Trio de Argolas P, M e G",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25743_01.jpg"
+  },
+  {
+    "codigo": "BRI25808",
+    "nome": "Trio de Brincos Esfera e Pérola",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25808_02.jpg"
+  },
+  {
+    "codigo": "BRI25810",
+    "nome": "Trio de Brincos Trevo, Cristal e Esfera",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI25810_02.jpg"
+  },
+  {
+    "codigo": "BRI26027",
+    "nome": "Brinco Borboleta Detalhada",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI26027_02.jpg"
+  },
+  {
+    "codigo": "BRI26071-1",
+    "nome": "Brinco Design Martelado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI26071-1_02.jpg"
+  },
+  {
+    "codigo": "BRI26112",
+    "nome": "Brinco Oval Martelado com Borda Lisa",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI26112_02.jpg"
+  },
+  {
+    "codigo": "BRI26195",
+    "nome": "Brinco Design Trançado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI26195_02.jpg"
+  },
+  {
+    "codigo": "BRI26197",
+    "nome": "Brinco Orgânico Vazado",
+    "categoria": "brinco",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/BRI26197_02.jpg"
+  },
+  {
+    "codigo": "CEB6914-1",
+    "nome": "Conjunto Colar e Brinco Nossa Senhora",
+    "categoria": "conjunto",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/CEB6914-1_01.jpg"
+  },
+  {
+    "codigo": "COL16297",
+    "nome": "Colar Veneziana com Nossa Senhora Zircônia",
+    "categoria": "colar",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/COL16297_02.jpg"
+  },
+  {
+    "codigo": "COL17145-1",
+    "nome": "Colar Escapulário Cruz com Micro Zircônias",
+    "categoria": "colar",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/COL17145-1_01.jpg"
+  },
+  {
+    "codigo": "COL17159-1",
+    "nome": "Colar Escapulário São Bento",
+    "categoria": "colar",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/COL17159-1_02.jpg"
+  },
+  {
+    "codigo": "COL17201-1",
+    "nome": "Colar Escapulário Pela Graça Sois Salvos",
+    "categoria": "colar",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/COL17201-1_02.jpg"
+  },
+  {
+    "codigo": "PUL6490",
+    "nome": "Pulseira Elos Maxi Texturizados",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL6490_02.jpg"
+  },
+  {
+    "codigo": "PUL7312",
+    "nome": "Pulseira Elos Longos Lisos",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL7312_02.jpg"
+  },
+  {
+    "codigo": "PUL8287",
+    "nome": "Pulseira Elos Maxi Duplo",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8287_02.jpg"
+  },
+  {
+    "codigo": "PUL8288",
+    "nome": "Pulseira Elos Texturizados",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8288_02.jpg"
+  },
+  {
+    "codigo": "PUL8415",
+    "nome": "Pulseira Design Flor Resinado",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8415_02.jpg"
+  },
+  {
+    "codigo": "PUL8430",
+    "nome": "Pulseira Esferas Texturizadas e Vazadas",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8430_02.jpg"
+  },
+  {
+    "codigo": "PUL8432",
+    "nome": "Pulseira Círculos Texturizados com Ponto de Luz",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8432_02.jpg"
+  },
+  {
+    "codigo": "PUL8452",
+    "nome": "Pulseira Corações e Cristais Coloridos",
+    "categoria": "pulseira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "ref": "fotos/PUL8452_02.jpg"
+  }
 ]
