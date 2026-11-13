@@ -401,9 +401,10 @@
     "ref": "fotos/CEB5148_02.jpg",
     "de": "39,72",
     "por": "24,90",
-    "qtd": 1,
+    "qtd": 0,
     "custo": 7.94,
-    "shopee": 28.9
+    "shopee": 28.9,
+    "vendido": "2026-11-13"
   },
   {
     "codigo": "CEB5152",
