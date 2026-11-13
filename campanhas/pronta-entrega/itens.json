@@ -415,9 +415,10 @@
     "ref": "fotos/CEB5152_02.jpg",
     "de": "39,72",
     "por": "24,90",
-    "qtd": 1,
+    "qtd": 0,
     "custo": 11.14,
-    "shopee": 36.9
+    "shopee": 36.9,
+    "vendido": "2026-11-13"
   },
   {
     "codigo": "BRI19935-2",
