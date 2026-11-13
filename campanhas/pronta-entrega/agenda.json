@@ -1,242 +1,242 @@
 [
-  {
-    "codigo": "CEB4716-5",
-    "arquivo": "vip/CEB4716-5.jpg",
-    "horario": "2026-11-13 09:30",
-    "publicado": "VENDIDO"
-  },
-  {
-    "codigo": "TO560",
-    "arquivo": "vip/TO560.jpg",
-    "horario": "2026-11-13 11:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029538574538141309"
-  },
-  {
-    "codigo": "BRI20551-1",
-    "arquivo": "vip/BRI20551-1.jpg",
-    "horario": "2026-11-13 12:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029583834576572440"
-  },
-  {
-    "codigo": "AN3668-1",
-    "arquivo": "vip/AN3668-1.jpg",
-    "horario": "2026-11-13 14:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029629499448799008"
-  },
-  {
-    "codigo": "COL12362",
-    "arquivo": "vip/COL12362.jpg",
-    "horario": "2026-11-13 15:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029674377646163746"
-  },
-  {
-    "codigo": "BRI19935-2",
-    "arquivo": "vip/BRI19935-2.jpg",
-    "horario": "2026-11-13 17:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029719806991812905"
-  },
-  {
-    "codigo": "CEB5151",
-    "arquivo": "vip/CEB5151.jpg",
-    "horario": "2026-11-13 19:00",
-    "publicado": "VENDIDO"
-  },
-  {
-    "codigo": "TO562",
-    "arquivo": "vip/TO562.jpg",
-    "horario": "2026-11-13 20:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20552-1",
-    "arquivo": "vip/BRI20552-1.jpg",
-    "horario": "2026-11-14 09:30",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3693-4",
-    "arquivo": "vip/AN3693-4.jpg",
-    "horario": "2026-11-14 11:00",
-    "publicado": null
-  },
-  {
-    "codigo": "COL14662",
-    "arquivo": "vip/COL14662.jpg",
-    "horario": "2026-11-14 12:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI19641-2",
-    "arquivo": "vip/BRI19641-2.jpg",
-    "horario": "2026-11-14 14:00",
-    "publicado": null
-  },
-  {
-    "codigo": "CEB5148",
-    "arquivo": "vip/CEB5148.jpg",
-    "horario": "2026-11-14 15:30",
-    "publicado": "VENDIDO"
-  },
-  {
-    "codigo": "BRI20338-1",
-    "arquivo": "vip/BRI20338-1.jpg",
-    "horario": "2026-11-14 17:00",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3682",
-    "arquivo": "vip/AN3682.jpg",
-    "horario": "2026-11-14 19:00",
-    "publicado": null
-  },
-  {
-    "codigo": "COL14741",
-    "arquivo": "vip/COL14741.jpg",
-    "horario": "2026-11-14 20:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI18931-2",
-    "arquivo": "vip/BRI18931-2.jpg",
-    "horario": "2026-11-15 09:30",
-    "publicado": null
-  },
-  {
-    "codigo": "CEB5152",
-    "arquivo": "vip/CEB5152.jpg",
-    "horario": "2026-11-15 11:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20472",
-    "arquivo": "vip/BRI20472.jpg",
-    "horario": "2026-11-15 12:30",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3371-2",
-    "arquivo": "vip/AN3371-2.jpg",
-    "horario": "2026-11-15 14:00",
-    "publicado": null
-  },
-  {
-    "codigo": "COL14101",
-    "arquivo": "vip/COL14101.jpg",
-    "horario": "2026-11-15 15:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI19741-2",
-    "arquivo": "vip/BRI19741-2.jpg",
-    "horario": "2026-11-15 17:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20475-1",
-    "arquivo": "vip/BRI20475-1.jpg",
-    "horario": "2026-11-15 19:00",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3696-4",
-    "arquivo": "vip/AN3696-4.jpg",
-    "horario": "2026-11-15 20:30",
-    "publicado": null
-  },
-  {
-    "codigo": "COL14009",
-    "arquivo": "vip/COL14009.jpg",
-    "horario": "2026-11-16 09:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20226-2",
-    "arquivo": "vip/BRI20226-2.jpg",
-    "horario": "2026-11-16 11:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20468",
-    "arquivo": "vip/BRI20468.jpg",
-    "horario": "2026-11-16 12:30",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3696-3",
-    "arquivo": "vip/AN3696-3.jpg",
-    "horario": "2026-11-16 14:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20037-2",
-    "arquivo": "vip/BRI20037-2.jpg",
-    "horario": "2026-11-16 15:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20473-1",
-    "arquivo": "vip/BRI20473-1.jpg",
-    "horario": "2026-11-16 17:00",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3686",
-    "arquivo": "vip/AN3686.jpg",
-    "horario": "2026-11-16 19:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI19065-2",
-    "arquivo": "vip/BRI19065-2.jpg",
-    "horario": "2026-11-16 20:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20124-1",
-    "arquivo": "vip/BRI20124-1.jpg",
-    "horario": "2026-11-17 09:30",
-    "publicado": null
-  },
-  {
-    "codigo": "AN3624-1",
-    "arquivo": "vip/AN3624-1.jpg",
-    "horario": "2026-11-17 11:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI19643-2",
-    "arquivo": "vip/BRI19643-2.jpg",
-    "horario": "2026-11-17 12:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20218",
-    "arquivo": "vip/BRI20218.jpg",
-    "horario": "2026-11-17 14:00",
-    "publicado": null
-  },
-  {
-    "codigo": "PG1033-2",
-    "arquivo": "vip/PG1033-2.jpg",
-    "horario": "2026-11-17 15:30",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20375-1",
-    "arquivo": "vip/BRI20375-1.jpg",
-    "horario": "2026-11-17 17:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI20455-1",
-    "arquivo": "vip/BRI20455-1.jpg",
-    "horario": "2026-11-17 19:00",
-    "publicado": null
-  },
-  {
-    "codigo": "BRI14333-1",
-    "arquivo": "vip/BRI14333-1.jpg",
-    "horario": "2026-11-17 20:30",
-    "publicado": null
-  }
+ {
+  "codigo": "CEB4716-5",
+  "arquivo": "vip/CEB4716-5.jpg",
+  "horario": "2026-11-13 09:30",
+  "publicado": "VENDIDO"
+ },
+ {
+  "codigo": "TO560",
+  "arquivo": "vip/TO560.jpg",
+  "horario": "2026-11-13 11:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029538574538141309"
+ },
+ {
+  "codigo": "BRI20551-1",
+  "arquivo": "vip/BRI20551-1.jpg",
+  "horario": "2026-11-13 12:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029583834576572440"
+ },
+ {
+  "codigo": "AN3668-1",
+  "arquivo": "vip/AN3668-1.jpg",
+  "horario": "2026-11-13 14:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029629499448799008"
+ },
+ {
+  "codigo": "COL12362",
+  "arquivo": "vip/COL12362.jpg",
+  "horario": "2026-11-13 15:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029674377646163746"
+ },
+ {
+  "codigo": "BRI19935-2",
+  "arquivo": "vip/BRI19935-2.jpg",
+  "horario": "2026-11-13 17:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4029719806991812905"
+ },
+ {
+  "codigo": "CEB5151",
+  "arquivo": "vip/CEB5151.jpg",
+  "horario": "2026-11-13 19:00",
+  "publicado": "VENDIDO"
+ },
+ {
+  "codigo": "TO562",
+  "arquivo": "vip/TO562.jpg",
+  "horario": "2026-11-13 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20552-1",
+  "arquivo": "vip/BRI20552-1.jpg",
+  "horario": "2026-11-14 09:30",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3693-4",
+  "arquivo": "vip/AN3693-4.jpg",
+  "horario": "2026-11-14 11:00",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14662",
+  "arquivo": "vip/COL14662.jpg",
+  "horario": "2026-11-14 12:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI19641-2",
+  "arquivo": "vip/BRI19641-2.jpg",
+  "horario": "2026-11-14 14:00",
+  "publicado": null
+ },
+ {
+  "codigo": "CEB5148",
+  "arquivo": "vip/CEB5148.jpg",
+  "horario": "2026-11-14 15:30",
+  "publicado": "VENDIDO"
+ },
+ {
+  "codigo": "BRI20338-1",
+  "arquivo": "vip/BRI20338-1.jpg",
+  "horario": "2026-11-14 17:00",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3682",
+  "arquivo": "vip/AN3682.jpg",
+  "horario": "2026-11-14 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14741",
+  "arquivo": "vip/COL14741.jpg",
+  "horario": "2026-11-14 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI18931-2",
+  "arquivo": "vip/BRI18931-2.jpg",
+  "horario": "2026-11-15 09:30",
+  "publicado": null
+ },
+ {
+  "codigo": "CEB5152",
+  "arquivo": "vip/CEB5152.jpg",
+  "horario": "2026-11-15 11:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20472",
+  "arquivo": "vip/BRI20472.jpg",
+  "horario": "2026-11-15 12:30",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3371-2",
+  "arquivo": "vip/AN3371-2.jpg",
+  "horario": "2026-11-15 14:00",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14101",
+  "arquivo": "vip/COL14101.jpg",
+  "horario": "2026-11-15 15:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI19741-2",
+  "arquivo": "vip/BRI19741-2.jpg",
+  "horario": "2026-11-15 17:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20475-1",
+  "arquivo": "vip/BRI20475-1.jpg",
+  "horario": "2026-11-15 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3696-4",
+  "arquivo": "vip/AN3696-4.jpg",
+  "horario": "2026-11-15 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "COL14009",
+  "arquivo": "vip/COL14009.jpg",
+  "horario": "2026-11-16 09:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20226-2",
+  "arquivo": "vip/BRI20226-2.jpg",
+  "horario": "2026-11-16 11:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20468",
+  "arquivo": "vip/BRI20468.jpg",
+  "horario": "2026-11-16 12:30",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3696-3",
+  "arquivo": "vip/AN3696-3.jpg",
+  "horario": "2026-11-16 14:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20037-2",
+  "arquivo": "vip/BRI20037-2.jpg",
+  "horario": "2026-11-16 15:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20473-1",
+  "arquivo": "vip/BRI20473-1.jpg",
+  "horario": "2026-11-16 17:00",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3686",
+  "arquivo": "vip/AN3686.jpg",
+  "horario": "2026-11-16 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI19065-2",
+  "arquivo": "vip/BRI19065-2.jpg",
+  "horario": "2026-11-16 20:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20124-1",
+  "arquivo": "vip/BRI20124-1.jpg",
+  "horario": "2026-11-17 09:30",
+  "publicado": null
+ },
+ {
+  "codigo": "AN3624-1",
+  "arquivo": "vip/AN3624-1.jpg",
+  "horario": "2026-11-17 11:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI19643-2",
+  "arquivo": "vip/BRI19643-2.jpg",
+  "horario": "2026-11-17 12:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20218",
+  "arquivo": "vip/BRI20218.jpg",
+  "horario": "2026-11-17 14:00",
+  "publicado": null
+ },
+ {
+  "codigo": "PG1033-2",
+  "arquivo": "vip/PG1033-2.jpg",
+  "horario": "2026-11-17 15:30",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20375-1",
+  "arquivo": "vip/BRI20375-1.jpg",
+  "horario": "2026-11-17 17:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI20455-1",
+  "arquivo": "vip/BRI20455-1.jpg",
+  "horario": "2026-11-17 19:00",
+  "publicado": null
+ },
+ {
+  "codigo": "BRI14333-1",
+  "arquivo": "vip/BRI14333-1.jpg",
+  "horario": "2026-11-17 20:30",
+  "publicado": null
+ }
 ]
