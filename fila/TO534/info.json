@@ -1,0 +1,18 @@
+{
+  "produto": {
+    "codigo": "TO534",
+    "nome_vitrine": "Tornozeleira Elos Modernos",
+    "categoria": "tornozeleira",
+    "cor": "dourado",
+    "material": "Folheado a ouro 18k",
+    "descricao_fornecedor": "Tornozeleira Folheado a Ouro 18K Elos Modernos",
+    "foto_peca": "TO534_01.jpg",
+    "foto_em_uso": "",
+    "ativo": "sim",
+    "motivo_inativo": ""
+  },
+  "roupa": "camisa_linho_aberta",
+  "prompt": "A PRIMEIRA imagem é a modelo oficial e exclusiva da marca MH Acessórios. Ela deve ser SEMPRE A MESMA PESSOA: mantenha exatamente o mesmo rosto, os mesmos traços, a pele bronzeada dourada e luminosa, o cabelo castanho longo e ondulado com mechas cor de mel, as sobrancelhas marcadas, os olhos castanhos e a maquiagem glam suave (pele iluminada com highlighter, olhos esfumados em tons de bronze, cílios definidos, batom nude rosado). NÃO altere a identidade dela de forma alguma. A ÚNICA coisa que muda em relação à foto de referência é a ROUPA: nesta foto ela veste camisa de linho creme aberta sobre um top bege. LUZ E CLIMA: luz quente e dourada de fim de tarde (golden hour), pele com brilho saudável, cores quentes e ricas, contraste suave porém marcante; a foto NÃO pode ficar apagada, lavada, acinzentada ou sem cor. Fundo liso em tons de bege e areia (parede texturizada ou pedra travertino), levemente desfocado. A SEGUNDA imagem é a joia 'Tornozeleira Elos Modernos' (Folheado a ouro 18k, cor dourado). Ela deve ficar IDÊNTICA à referência: mesmo formato, mesmo número de elos, pedras e detalhes, mesmo tom de metal e proporção realista em relação ao corpo. O metal dourado deve brilhar com reflexos quentes; se a peça for prateada, mantenha prateada. Remova TODAS as outras joias e acessórios da modelo (nenhum outro brinco, ear cuff, piercing, colar, anel, pulseira ou relógio): ela usa SOMENTE esta peça. A roupa deve ser elegante e discreta, de tecido opaco e com forro, sem transparência e sem marcar o corpo (aparência de campanha de joalheria sofisticada). Foto editorial fotorrealista de joalheria de luxo, paleta bege, caramelo, dourado e off-white, formato vertical 4:5, sem nenhum texto e sem logotipo. Close no tornozelo da modelo, pé descalço ou com sandália rasteira nude, sobre um piso de madeira clara iluminado pela janela. Ela usa esta tornozeleira. O rosto não precisa aparecer.",
+  "gerado_em": "2026-11-13 13:17",
+  "versao": 1794575828
+}
