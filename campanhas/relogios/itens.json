@@ -1,0 +1,46 @@
+[
+  {
+    "codigo": "REL-GOTA-D",
+    "nome": "Relógio Gota Dourado",
+    "categoria": "relogio",
+    "cor": "dourado",
+    "material": "Aço dourado",
+    "ref": "campanhas/relogios/ref/gota_dourado.png",
+    "por": "45,00",
+    "extra": "The watch has a teardrop-shaped gold case and a gold stretch bracelet that wraps the wrist. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers).",
+    "extra_detalhe": "IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers)."
+  },
+  {
+    "codigo": "REL-GOTA-P",
+    "nome": "Relógio Gota Prata",
+    "categoria": "relogio",
+    "cor": "prateado",
+    "material": "Aço prateado",
+    "ref": "campanhas/relogios/ref/gota_prata.png",
+    "por": "45,00",
+    "extra": "The watch has a teardrop-shaped SILVER case and a SILVER stretch bracelet. Everything silver, no gold. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers).",
+    "extra_detalhe": "Everything silver/steel color, no gold. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers)."
+  },
+  {
+    "codigo": "REL-BRAC-D",
+    "nome": "Relógio Bracelete Oval Dourado",
+    "categoria": "relogio",
+    "cor": "dourado",
+    "material": "Aço dourado",
+    "ref": "campanhas/relogios/ref/bracelete_dourado.png",
+    "por": "45,00",
+    "extra": "Small oval gold case with white dial and black Roman numerals, on a thin rigid open gold bangle (bracelete). IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers).",
+    "extra_detalhe": "Small oval gold case with white dial and black Roman numerals, thin rigid open gold bangle. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers)."
+  },
+  {
+    "codigo": "REL-BRAC-P",
+    "nome": "Relógio Bracelete Oval Prata",
+    "categoria": "relogio",
+    "cor": "prateado",
+    "material": "Aço prateado",
+    "ref": "campanhas/relogios/ref/bracelete_dourado.png",
+    "por": "45,00",
+    "extra": "Same model as the reference but in SILVER: small oval SILVER case with white dial and black Roman numerals, on a thin rigid open SILVER bangle. Everything silver, no gold. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers).",
+    "extra_detalhe": "Same model as the reference but entirely SILVER/steel color (case and bangle), white dial with black Roman numerals. No gold. IMPORTANT: no brand name, logo or text on the watch dial (plain dial with only Roman numerals/markers)."
+  }
+]
