@@ -1,0 +1,74 @@
+[
+ {
+  "codigo": "BRI20552-1",
+  "entrada": "campanhas/trios-real/BRI20552-1_fb.png",
+  "saida": "campanhas/trios-real/BRI20552-1.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20552-1.png"
+ },
+ {
+  "codigo": "BRI20472",
+  "entrada": "campanhas/trios-real/BRI20472_fb.png",
+  "saida": "campanhas/trios-real/BRI20472.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20472.png"
+ },
+ {
+  "codigo": "BRI20475-1",
+  "entrada": "campanhas/trios-real/BRI20475-1_fb.png",
+  "saida": "campanhas/trios-real/BRI20475-1.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20475-1.png"
+ },
+ {
+  "codigo": "BRI20468",
+  "entrada": "campanhas/trios-real/BRI20468_fb.png",
+  "saida": "campanhas/trios-real/BRI20468.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20468.png"
+ },
+ {
+  "codigo": "BRI20473-1",
+  "entrada": "campanhas/trios-real/BRI20473-1_fb.png",
+  "saida": "campanhas/trios-real/BRI20473-1.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20473-1.png"
+ },
+ {
+  "codigo": "BRI20455-1",
+  "entrada": "campanhas/trios-real/BRI20455-1_fb.png",
+  "saida": "campanhas/trios-real/BRI20455-1.png",
+  "ref": "campanhas/pronta-entrega/fotos/BRI20455-1.png"
+ },
+ {
+  "codigo": "BRI16678-1",
+  "entrada": "campanhas/trios-real/BRI16678-1_fb.png",
+  "saida": "campanhas/trios-real/BRI16678-1.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI16678-1.png"
+ },
+ {
+  "codigo": "BRI25079-1",
+  "entrada": "campanhas/trios-real/BRI25079-1_fb.png",
+  "saida": "campanhas/trios-real/BRI25079-1.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI25079-1.png"
+ },
+ {
+  "codigo": "BRI25531",
+  "entrada": "campanhas/trios-real/BRI25531_fb.png",
+  "saida": "campanhas/trios-real/BRI25531.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI25531.png"
+ },
+ {
+  "codigo": "BRI25743",
+  "entrada": "campanhas/trios-real/BRI25743_fb.png",
+  "saida": "campanhas/trios-real/BRI25743.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI25743.png"
+ },
+ {
+  "codigo": "BRI25808",
+  "entrada": "campanhas/trios-real/BRI25808_fb.png",
+  "saida": "campanhas/trios-real/BRI25808.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI25808.png"
+ },
+ {
+  "codigo": "BRI25810",
+  "entrada": "campanhas/trios-real/BRI25810_fb.png",
+  "saida": "campanhas/trios-real/BRI25810.png",
+  "ref": "campanhas/novidades-270323/fotos/BRI25810.png"
+ }
+]
