@@ -1,0 +1,26 @@
+[
+ {
+  "codigo": "REL-GOTA-D",
+  "arquivo": "vip/REL-GOTA-D.jpg",
+  "horario": "2026-11-14 21:30",
+  "publicado": null
+ },
+ {
+  "codigo": "REL-GOTA-P",
+  "arquivo": "vip/REL-GOTA-P.jpg",
+  "horario": "2026-11-16 10:30",
+  "publicado": null
+ },
+ {
+  "codigo": "REL-BRAC-D",
+  "arquivo": "vip/REL-BRAC-D.jpg",
+  "horario": "2026-11-17 10:30",
+  "publicado": null
+ },
+ {
+  "codigo": "REL-BRAC-P",
+  "arquivo": "vip/REL-BRAC-P.jpg",
+  "horario": "2026-11-18 10:30",
+  "publicado": null
+ }
+]
