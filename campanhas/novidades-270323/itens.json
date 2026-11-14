@@ -5,7 +5,9 @@
     "categoria": "anel",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/AN4274-3_01.jpg"
+    "ref": "fotos/AN4274-3_01.jpg",
+    "por": "44,90",
+    "qtd": 1
   },
   {
     "codigo": "AN5445-5",
@@ -13,7 +15,9 @@
     "categoria": "anel",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/AN5445-5_01.jpg"
+    "ref": "fotos/AN5445-5_01.jpg",
+    "por": "22,90",
+    "qtd": 1
   },
   {
     "codigo": "AN5447-5",
@@ -21,7 +25,9 @@
     "categoria": "anel",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/AN5447-5_02.jpg"
+    "ref": "fotos/AN5447-5_02.jpg",
+    "por": "17,90",
+    "qtd": 1
   },
   {
     "codigo": "AN5472-5",
@@ -29,7 +35,9 @@
     "categoria": "anel",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/AN5472-5_02.jpg"
+    "ref": "fotos/AN5472-5_02.jpg",
+    "por": "15,90",
+    "qtd": 1
   },
   {
     "codigo": "BRA4576-1",
@@ -37,7 +45,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRA4576-1_01.jpg"
+    "ref": "fotos/BRA4576-1_01.jpg",
+    "por": "32,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI16678-1",
@@ -45,7 +55,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI16678-1_01.jpg"
+    "ref": "fotos/BRI16678-1_01.jpg",
+    "por": "20,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI21672",
@@ -54,7 +66,9 @@
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
     "ref": "fotos/BRI21672_01.jpg",
-    "extra": "É um kit 'semaninha' com 7 pares de brincos pequenos (um para cada dia). A modelo usa APENAS UM par: os brincos de esfera dourada lisa."
+    "extra": "É um kit 'semaninha' com 7 pares de brincos pequenos (um para cada dia). A modelo usa APENAS UM par: os brincos de esfera dourada lisa.",
+    "por": "40,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI22079",
@@ -63,7 +77,9 @@
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
     "ref": "fotos/BRI22079_02.jpg",
-    "extra_detalhe": "The earring is 100% polished gold metal: a round gold disc with a raised four-leaf clover relief, also in gold. NO black enamel, NO color, NO stones."
+    "extra_detalhe": "The earring is 100% polished gold metal: a round gold disc with a raised four-leaf clover relief, also in gold. NO black enamel, NO color, NO stones.",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI22464-1",
@@ -71,7 +87,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI22464-1_01.jpg"
+    "ref": "fotos/BRI22464-1_01.jpg",
+    "por": "20,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI22464-2",
@@ -79,7 +97,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI22464-2_01.jpg"
+    "ref": "fotos/BRI22464-2_01.jpg",
+    "por": "20,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI22580-1",
@@ -87,7 +107,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI22580-1_02.jpg"
+    "ref": "fotos/BRI22580-1_02.jpg",
+    "por": "17,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI23096",
@@ -95,7 +117,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI23096_02.jpg"
+    "ref": "fotos/BRI23096_02.jpg",
+    "por": "16,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI23996",
@@ -103,7 +127,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI23996_01.jpg"
+    "ref": "fotos/BRI23996_01.jpg",
+    "por": "26,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25079-1",
@@ -111,7 +137,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25079-1_02.jpg"
+    "ref": "fotos/BRI25079-1_02.jpg",
+    "por": "33,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25086-1",
@@ -119,7 +147,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25086-1_02.jpg"
+    "ref": "fotos/BRI25086-1_02.jpg",
+    "por": "26,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25088-1",
@@ -127,7 +157,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25088-1_02.jpg"
+    "ref": "fotos/BRI25088-1_02.jpg",
+    "por": "41,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25405-2",
@@ -135,7 +167,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25405-2_02.jpg"
+    "ref": "fotos/BRI25405-2_02.jpg",
+    "por": "21,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25531",
@@ -143,7 +177,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25531_02.jpg"
+    "ref": "fotos/BRI25531_02.jpg",
+    "por": "16,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25544-1",
@@ -151,7 +187,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25544-1_02.jpg"
+    "ref": "fotos/BRI25544-1_02.jpg",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25564",
@@ -159,7 +197,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25564_02.jpg"
+    "ref": "fotos/BRI25564_02.jpg",
+    "por": "23,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25567",
@@ -167,7 +207,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25567_02.jpg"
+    "ref": "fotos/BRI25567_02.jpg",
+    "por": "23,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25645",
@@ -175,7 +217,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25645_02.jpg"
+    "ref": "fotos/BRI25645_02.jpg",
+    "por": "23,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25742",
@@ -183,7 +227,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25742_02.jpg"
+    "ref": "fotos/BRI25742_02.jpg",
+    "por": "23,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25743",
@@ -191,7 +237,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25743_01.jpg"
+    "ref": "fotos/BRI25743_01.jpg",
+    "por": "31,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25808",
@@ -199,7 +247,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25808_02.jpg"
+    "ref": "fotos/BRI25808_02.jpg",
+    "por": "18,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI25810",
@@ -207,7 +257,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI25810_02.jpg"
+    "ref": "fotos/BRI25810_02.jpg",
+    "por": "18,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI26027",
@@ -215,7 +267,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI26027_02.jpg"
+    "ref": "fotos/BRI26027_02.jpg",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI26071-1",
@@ -223,7 +277,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI26071-1_02.jpg"
+    "ref": "fotos/BRI26071-1_02.jpg",
+    "por": "17,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI26112",
@@ -231,7 +287,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI26112_02.jpg"
+    "ref": "fotos/BRI26112_02.jpg",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI26195",
@@ -239,7 +297,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI26195_02.jpg"
+    "ref": "fotos/BRI26195_02.jpg",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "BRI26197",
@@ -247,7 +307,9 @@
     "categoria": "brinco",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/BRI26197_02.jpg"
+    "ref": "fotos/BRI26197_02.jpg",
+    "por": "14,90",
+    "qtd": 1
   },
   {
     "codigo": "CEB6914-1",
@@ -255,7 +317,9 @@
     "categoria": "conjunto",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/CEB6914-1_01.jpg"
+    "ref": "fotos/CEB6914-1_01.jpg",
+    "por": "26,90",
+    "qtd": 1
   },
   {
     "codigo": "COL16297",
@@ -263,7 +327,9 @@
     "categoria": "colar",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/COL16297_02.jpg"
+    "ref": "fotos/COL16297_02.jpg",
+    "por": "33,90",
+    "qtd": 1
   },
   {
     "codigo": "COL17145-1",
@@ -271,7 +337,9 @@
     "categoria": "colar",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/COL17145-1_01.jpg"
+    "ref": "fotos/COL17145-1_01.jpg",
+    "por": "44,90",
+    "qtd": 1
   },
   {
     "codigo": "COL17159-1",
@@ -279,7 +347,9 @@
     "categoria": "colar",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/COL17159-1_02.jpg"
+    "ref": "fotos/COL17159-1_02.jpg",
+    "por": "26,90",
+    "qtd": 1
   },
   {
     "codigo": "COL17201-1",
@@ -287,7 +357,9 @@
     "categoria": "colar",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/COL17201-1_02.jpg"
+    "ref": "fotos/COL17201-1_02.jpg",
+    "por": "28,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL6490",
@@ -295,7 +367,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL6490_02.jpg"
+    "ref": "fotos/PUL6490_02.jpg",
+    "por": "17,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL7312",
@@ -303,7 +377,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL7312_02.jpg"
+    "ref": "fotos/PUL7312_02.jpg",
+    "por": "15,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8287",
@@ -311,7 +387,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8287_02.jpg"
+    "ref": "fotos/PUL8287_02.jpg",
+    "por": "15,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8288",
@@ -319,7 +397,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8288_02.jpg"
+    "ref": "fotos/PUL8288_02.jpg",
+    "por": "15,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8415",
@@ -327,7 +407,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8415_02.jpg"
+    "ref": "fotos/PUL8415_02.jpg",
+    "por": "25,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8430",
@@ -335,7 +417,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8430_02.jpg"
+    "ref": "fotos/PUL8430_02.jpg",
+    "por": "25,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8432",
@@ -343,7 +427,9 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8432_02.jpg"
+    "ref": "fotos/PUL8432_02.jpg",
+    "por": "25,90",
+    "qtd": 1
   },
   {
     "codigo": "PUL8452",
@@ -351,6 +437,8 @@
     "categoria": "pulseira",
     "cor": "dourado",
     "material": "Folheado a ouro 18k",
-    "ref": "fotos/PUL8452_02.jpg"
+    "ref": "fotos/PUL8452_02.jpg",
+    "por": "25,90",
+    "qtd": 1
   }
 ]
