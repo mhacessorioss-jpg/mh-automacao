@@ -134,31 +134,6 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI21672"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "PUL6490"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "AN5445-5"
-   }
-  ],
-  "codigos": [
-   "BRI21672",
-   "PUL6490",
-   "AN5445-5"
-  ],
-  "enviado": null,
-  "tipo": "novidade",
-  "horario": null
- },
- {
-  "pasta": null,
-  "itens": [
-   {
-    "pasta": "novidades-270323",
     "codigo": "COL17145-1"
    },
    {
@@ -174,6 +149,31 @@
    "COL17145-1",
    "REL-GOTA-P",
    "BRI22079"
+  ],
+  "enviado": "2026-11-14 16:37 (grupo + status)",
+  "tipo": "novidade",
+  "horario": null
+ },
+ {
+  "pasta": null,
+  "itens": [
+   {
+    "pasta": "novidades-270323",
+    "codigo": "BRI21672"
+   },
+   {
+    "pasta": "novidades-270323",
+    "codigo": "PUL6490"
+   },
+   {
+    "pasta": "novidades-270323",
+    "codigo": "AN5445-5"
+   }
+  ],
+  "codigos": [
+   "BRI21672",
+   "PUL6490",
+   "AN5445-5"
   ],
   "enviado": null,
   "tipo": "novidade",
