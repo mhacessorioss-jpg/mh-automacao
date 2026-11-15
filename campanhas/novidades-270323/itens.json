@@ -7,7 +7,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/AN4274-3_01.jpg",
     "por": "44,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-15"
   },
   {
     "codigo": "AN5445-5",
@@ -27,7 +28,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/AN5447-5_02.jpg",
     "por": "17,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-15"
   },
   {
     "codigo": "AN5472-5",
