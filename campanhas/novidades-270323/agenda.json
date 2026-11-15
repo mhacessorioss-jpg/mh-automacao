@@ -1,5 +1,11 @@
 [
  {
+  "codigo": "CHEGOU-FOTO",
+  "arquivo": "stories/chegou_15-11.jpg",
+  "horario": "2026-11-15 09:00",
+  "publicado": null
+ },
+ {
   "codigo": "BRI16678-1",
   "arquivo": "vip/BRI16678-1.jpg",
   "horario": "2026-11-14 10:30",
@@ -32,7 +38,7 @@
  {
   "codigo": "BRI21672",
   "arquivo": "vip/BRI21672.jpg",
-  "horario": "2026-11-15 13:30",
+  "horario": "2026-11-24 13:30",
   "publicado": null
  },
  {
