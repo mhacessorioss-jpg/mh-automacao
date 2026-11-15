@@ -279,16 +279,11 @@
    {
     "pasta": "novidades-270323",
     "codigo": "PUL8288"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI22580-1"
    }
   ],
   "codigos": [
    "BRI22464-2",
-   "PUL8288",
-   "BRI22580-1"
+   "PUL8288"
   ],
   "enviado": null,
   "tipo": "novidade",
