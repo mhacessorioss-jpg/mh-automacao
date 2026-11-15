@@ -41,3 +41,23 @@ def publicar_foto(image_url: str, legenda: str = "", story: bool = False, colabo
         return info.get("permalink") or f"publicado (id {media})"
     except Exception:
         return f"publicado (id {media})"
+
+
+def publicar_reel(video_url: str, legenda: str = "") -> str:
+    tok = config.IG_ACCESS_TOKEN
+    dados = {"media_type": "REELS", "video_url": video_url, "caption": legenda, "share_to_feed": "true", "access_token": tok}
+    cont = _ok(requests.post(_api(f"{config.IG_USER_ID}/media"), data=dados, timeout=60))["id"]
+    for _ in range(60):
+        st = _ok(requests.get(_api(cont), params={"fields": "status_code,status", "access_token": tok}, timeout=30))
+        if st.get("status_code") == "FINISHED":
+            break
+        if st.get("status_code") == "ERROR":
+            raise RuntimeError(f"Instagram recusou o vídeo: {st}")
+        time.sleep(10)
+    media = _ok(requests.post(_api(f"{config.IG_USER_ID}/media_publish"),
+                              data={"creation_id": cont, "access_token": tok}, timeout=60))["id"]
+    try:
+        info = _ok(requests.get(_api(media), params={"fields": "permalink", "access_token": tok}, timeout=30))
+        return info.get("permalink") or f"publicado (id {media})"
+    except Exception:
+        return f"publicado (id {media})"
