@@ -309,10 +309,6 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "PUL8415"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI23096"
    },
    {
@@ -321,7 +317,6 @@
    }
   ],
   "codigos": [
-   "PUL8415",
    "BRI23096",
    "PUL8430"
   ],

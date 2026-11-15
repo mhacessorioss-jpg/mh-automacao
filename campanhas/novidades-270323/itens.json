@@ -343,7 +343,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/COL16297_02.jpg",
     "por": "33,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "COL17145-1",
@@ -423,7 +424,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/PUL8415_02.jpg",
     "por": "25,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "PUL8430",
