@@ -159,35 +159,25 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI21672"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "PUL6490"
    },
    {
     "pasta": "novidades-270323",
     "codigo": "AN5445-5"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "COL14009"
    }
   ],
   "codigos": [
-   "BRI21672",
    "PUL6490",
-   "AN5445-5"
+   "AN5445-5",
+   "COL14009"
   ],
   "enviado": null,
   "tipo": "novidade",
   "horario": null
- },
- {
-  "horario": null,
-  "codigos": [
-   "COL14009",
-   "BRI20226-2",
-   "BRI20468"
-  ],
-  "enviado": null,
-  "pasta": "pronta-entrega"
  },
  {
   "pasta": null,
@@ -242,12 +232,50 @@
  {
   "horario": null,
   "codigos": [
+   "BRI21672",
+   "BRI20226-2",
+   "BRI20468"
+  ],
+  "enviado": null,
+  "pasta": "pronta-entrega",
+  "itens": [
+   {
+    "pasta": "novidades-270323",
+    "codigo": "BRI21672"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20226-2"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20468"
+   }
+  ]
+ },
+ {
+  "horario": null,
+  "codigos": [
    "AN3696-3",
    "BRI20037-2",
    "BRI20473-1"
   ],
   "enviado": null,
-  "pasta": "pronta-entrega"
+  "pasta": "pronta-entrega",
+  "itens": [
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "AN3696-3"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20037-2"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20473-1"
+   }
+  ]
  },
  {
   "pasta": null,
@@ -297,7 +325,21 @@
    "BRI20124-1"
   ],
   "enviado": null,
-  "pasta": "pronta-entrega"
+  "pasta": "pronta-entrega",
+  "itens": [
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "AN3686"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI19065-2"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20124-1"
+   }
+  ]
  },
  {
   "pasta": null,
@@ -342,7 +384,21 @@
    "BRI20218"
   ],
   "enviado": null,
-  "pasta": "pronta-entrega"
+  "pasta": "pronta-entrega",
+  "itens": [
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "AN3624-1"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI19643-2"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20218"
+   }
+  ]
  },
  {
   "pasta": null,
@@ -398,7 +454,25 @@
    "BRI14333-1"
   ],
   "enviado": null,
-  "pasta": "pronta-entrega"
+  "pasta": "pronta-entrega",
+  "itens": [
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "PG1033-2"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20375-1"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI20455-1"
+   },
+   {
+    "pasta": "pronta-entrega",
+    "codigo": "BRI14333-1"
+   }
+  ]
  },
  {
   "pasta": null,
