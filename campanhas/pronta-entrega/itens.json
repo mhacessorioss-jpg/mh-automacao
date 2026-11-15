@@ -83,9 +83,13 @@
     "ref": "fotos/BRI20338-1_02.jpg",
     "de": "27,76",
     "por": "14,90",
-    "qtd": 1,
+    "qtd": 0,
     "custo": 6.34,
-    "shopee": 24.9
+    "shopee": 24.9,
+    "vendas": [
+      "2026-11-14"
+    ],
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "BRI20472",
@@ -347,10 +351,13 @@
     "ref": "fotos/COL14662_02.jpg",
     "de": "41,75",
     "por": "19,90",
-    "qtd": 2,
+    "qtd": 1,
     "foto_pronta": true,
     "custo": 9.54,
-    "shopee": 32.9
+    "shopee": 32.9,
+    "vendas": [
+      "2026-11-14"
+    ]
   },
   {
     "codigo": "COL14741",
