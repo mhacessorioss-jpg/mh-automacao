@@ -164,16 +164,11 @@
    {
     "pasta": "novidades-270323",
     "codigo": "AN5445-5"
-   },
-   {
-    "pasta": "pronta-entrega",
-    "codigo": "COL14009"
    }
   ],
   "codigos": [
    "PUL6490",
-   "AN5445-5",
-   "COL14009"
+   "AN5445-5"
   ],
   "enviado": null,
   "tipo": "novidade",
@@ -233,8 +228,7 @@
   "horario": null,
   "codigos": [
    "BRI21672",
-   "BRI20226-2",
-   "BRI20468"
+   "BRI20226-2"
   ],
   "enviado": null,
   "pasta": "pronta-entrega",
@@ -246,10 +240,6 @@
    {
     "pasta": "pronta-entrega",
     "codigo": "BRI20226-2"
-   },
-   {
-    "pasta": "pronta-entrega",
-    "codigo": "BRI20468"
    }
   ]
  },

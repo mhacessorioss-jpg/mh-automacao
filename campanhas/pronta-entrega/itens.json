@@ -130,11 +130,12 @@
     "ref": "fotos/BRI20468_02.jpg",
     "de": "24,26",
     "por": "15,00",
-    "qtd": 1,
+    "qtd": 0,
     "custo": 5.54,
     "shopee": 22.9,
     "extra_detalhe": "IMPORTANTE — ESTA PEÇA É UM TRIO (3 brincos diferentes). Ignore a regra de 'apenas o par': mostre UM brinco de cada um dos três modelos (3 brincos no total, NÃO os pares), lado a lado em UMA fileira horizontal reta, do MENOR para o MAIOR (da esquerda para a direita), em pé, bem espaçados, todos virados para a câmera, apoiados na borda do travertino, com flores secas creme desfocadas ao fundo. Composição limpa e minimalista, nada amontoado. Mesmo no close-up, os três aparecem inteiros nessa mesma fileira.",
-    "extra": "ENQUADRAMENTO: close-up de perfil (três quartos) mostrando a orelha em destaque, do olho até o pescoço. Ela usa os TRÊS brincos do trio AO MESMO TEMPO na MESMA orelha, em furos diferentes (ear stack): o MENOR no furo mais alto, o MÉDIO no meio e o MAIOR no lóbulo. Os três bem visíveis e nítidos, idênticos à referência."
+    "extra": "ENQUADRAMENTO: close-up de perfil (três quartos) mostrando a orelha em destaque, do olho até o pescoço. Ela usa os TRÊS brincos do trio AO MESMO TEMPO na MESMA orelha, em furos diferentes (ear stack): o MENOR no furo mais alto, o MÉDIO no meio e o MAIOR no lóbulo. Os três bem visíveis e nítidos, idênticos à referência.",
+    "vendido": "2026-11-15"
   },
   {
     "codigo": "BRI20473-1",
@@ -409,9 +410,10 @@
     "ref": "fotos/COL14009_02.jpg",
     "de": "41,75",
     "por": "19,90",
-    "qtd": 1,
+    "qtd": 0,
     "custo": 11.93,
-    "shopee": 38.9
+    "shopee": 38.9,
+    "vendido": "2026-11-15"
   },
   {
     "codigo": "CEB5148",
