@@ -329,15 +329,10 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI25079-1"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI25086-1"
    }
   ],
   "codigos": [
-   "BRI25079-1",
    "BRI25086-1"
   ],
   "enviado": null,
