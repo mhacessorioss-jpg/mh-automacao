@@ -254,10 +254,6 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "AN5472-5"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "COL17201-1"
    },
    {
@@ -266,7 +262,6 @@
    }
   ],
   "codigos": [
-   "AN5472-5",
    "COL17201-1",
    "REL-BRAC-P"
   ],
@@ -343,16 +338,11 @@
    },
    {
     "pasta": "novidades-270323",
-    "codigo": "PUL8432"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI25086-1"
    }
   ],
   "codigos": [
    "BRI25079-1",
-   "PUL8432",
    "BRI25086-1"
   ],
   "enviado": null,
@@ -485,10 +475,6 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI26027"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI26071-1"
    },
    {
@@ -497,7 +483,6 @@
    }
   ],
   "codigos": [
-   "BRI26027",
    "BRI26071-1",
    "BRI26112"
   ],

@@ -37,7 +37,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/AN5472-5_02.jpg",
     "por": "15,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "BRA4576-1",
@@ -282,7 +283,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/BRI26027_02.jpg",
     "por": "14,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "BRI26071-1",
@@ -442,7 +444,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/PUL8432_02.jpg",
     "por": "25,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-14"
   },
   {
     "codigo": "PUL8452",

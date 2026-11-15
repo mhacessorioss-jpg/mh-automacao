@@ -93,7 +93,7 @@
   "codigo": "AN5472-5",
   "arquivo": "vip/AN5472-5.jpg",
   "horario": "2026-11-17 19:30",
-  "publicado": null
+  "publicado": "VENDIDO"
  },
  {
   "codigo": "COL17201-1",
@@ -147,7 +147,7 @@
   "codigo": "PUL8432",
   "arquivo": "vip/PUL8432.jpg",
   "horario": "2026-11-19 19:30",
-  "publicado": null
+  "publicado": "VENDIDO"
  },
  {
   "codigo": "BRI25086-1",
@@ -231,7 +231,7 @@
   "codigo": "BRI26027",
   "arquivo": "vip/BRI26027.jpg",
   "horario": "2026-11-22 16:30",
-  "publicado": null
+  "publicado": "VENDIDO"
  },
  {
   "codigo": "BRI26071-1",
