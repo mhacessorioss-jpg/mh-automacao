@@ -400,7 +400,8 @@
     "material": "Folheado a ouro 18k",
     "ref": "fotos/PUL7312_02.jpg",
     "por": "15,90",
-    "qtd": 1
+    "qtd": 0,
+    "vendido": "2026-11-15"
   },
   {
     "codigo": "PUL8287",
