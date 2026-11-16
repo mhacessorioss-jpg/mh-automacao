@@ -149,5 +149,36 @@
   "de": "23,90",
   "titulo": "Oferta <i>do dia</i>",
   "aviso": "OFERTA VÁLIDA SOMENTE HOJE, 16/11 · CHAME NO PRIVADO"
+ },
+ {
+  "codigo": "COL12362",
+  "nome": "Choker Elos Grumet Lisos",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL12362_02.jpg",
+  "de": "48,76",
+  "por": "19,90",
+  "qtd": 1,
+  "foto_pronta": true,
+  "custo": 11.14,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "COL14662",
+  "nome": "Choker Elos",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL14662_02.jpg",
+  "de": "41,75",
+  "por": "19,90",
+  "qtd": 1,
+  "foto_pronta": true,
+  "custo": 9.54,
+  "shopee": 32.9,
+  "vendas": [
+   "2026-11-14"
+  ]
  }
 ]

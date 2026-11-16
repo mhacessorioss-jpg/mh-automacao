@@ -177,6 +177,10 @@
    {
     "pasta": "oferta-16-11",
     "codigo": "BRI20375-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "COL14662"
    }
   ],
   "codigos": [
@@ -184,7 +188,8 @@
    "BRI20551-1",
    "BRI20552-1",
    "BRI20455-1",
-   "BRI20375-1"
+   "BRI20375-1",
+   "COL14662"
   ],
   "enviado": null,
   "horario": "2026-11-16"
@@ -212,6 +217,10 @@
    {
     "pasta": "oferta-16-11",
     "codigo": "BRI25564"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "COL12362"
    }
   ],
   "codigos": [
@@ -219,7 +228,8 @@
    "CEB6914-1",
    "COL17145-1",
    "BRI25743",
-   "BRI25564"
+   "BRI25564",
+   "COL12362"
   ],
   "enviado": null,
   "horario": "2026-11-16"
