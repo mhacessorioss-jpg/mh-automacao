@@ -43,9 +43,12 @@ def publicar_foto(image_url: str, legenda: str = "", story: bool = False, colabo
         return f"publicado (id {media})"
 
 
-def publicar_reel(video_url: str, legenda: str = "") -> str:
+def publicar_reel(video_url: str, legenda: str = "", story: bool = False) -> str:
     tok = config.IG_ACCESS_TOKEN
-    dados = {"media_type": "REELS", "video_url": video_url, "caption": legenda, "share_to_feed": "true", "access_token": tok}
+    if story:
+        dados = {"media_type": "STORIES", "video_url": video_url, "access_token": tok}
+    else:
+        dados = {"media_type": "REELS", "video_url": video_url, "caption": legenda, "share_to_feed": "true", "access_token": tok}
     cont = _ok(requests.post(_api(f"{config.IG_USER_ID}/media"), data=dados, timeout=60))["id"]
     for _ in range(60):
         st = _ok(requests.get(_api(cont), params={"fields": "status_code,status", "access_token": tok}, timeout=30))
