@@ -160,36 +160,31 @@
   "itens": [
    {
     "pasta": "oferta-16-11",
-    "codigo": "BRI16678-1"
+    "codigo": "CEB4852"
    },
    {
     "pasta": "oferta-16-11",
-    "codigo": "BRI22464-1"
+    "codigo": "BRI20551-1"
    },
    {
     "pasta": "oferta-16-11",
-    "codigo": "BRI22464-2"
+    "codigo": "BRI20552-1"
    },
    {
     "pasta": "oferta-16-11",
-    "codigo": "BRI25405-2"
+    "codigo": "BRI20455-1"
    },
    {
     "pasta": "oferta-16-11",
-    "codigo": "AN5445-5"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRI25645"
+    "codigo": "BRI20375-1"
    }
   ],
   "codigos": [
-   "BRI16678-1",
-   "BRI22464-1",
-   "BRI22464-2",
-   "BRI25405-2",
-   "AN5445-5",
-   "BRI25645"
+   "CEB4852",
+   "BRI20551-1",
+   "BRI20552-1",
+   "BRI20455-1",
+   "BRI20375-1"
   ],
   "enviado": null,
   "horario": "2026-11-16"
@@ -200,47 +195,7 @@
   "itens": [
    {
     "pasta": "oferta-16-11",
-    "codigo": "BRI25742"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRI25564"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRI25567"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "PUL8430"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "PUL8452"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRI23996"
-   }
-  ],
-  "codigos": [
-   "BRI25742",
-   "BRI25564",
-   "BRI25567",
-   "PUL8430",
-   "PUL8452",
-   "BRI23996"
-  ],
-  "enviado": null,
-  "horario": "2026-11-16"
- },
- {
-  "pasta": "oferta-16-11",
-  "tipo": "oferta20",
-  "itens": [
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRI25086-1"
+    "codigo": "BRA4576-1"
    },
    {
     "pasta": "oferta-16-11",
@@ -248,28 +203,23 @@
    },
    {
     "pasta": "oferta-16-11",
-    "codigo": "COL17159-1"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "COL17201-1"
-   },
-   {
-    "pasta": "oferta-16-11",
-    "codigo": "BRA4576-1"
+    "codigo": "COL17145-1"
    },
    {
     "pasta": "oferta-16-11",
     "codigo": "BRI25743"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25564"
    }
   ],
   "codigos": [
-   "BRI25086-1",
-   "CEB6914-1",
-   "COL17159-1",
-   "COL17201-1",
    "BRA4576-1",
-   "BRI25743"
+   "CEB6914-1",
+   "COL17145-1",
+   "BRI25743",
+   "BRI25564"
   ],
   "enviado": null,
   "horario": "2026-11-16"
@@ -469,8 +419,6 @@
   "horario": null,
   "codigos": [
    "PG1033-2",
-   "BRI20375-1",
-   "BRI20455-1",
    "BRI14333-1"
   ],
   "enviado": null,
@@ -479,14 +427,6 @@
    {
     "pasta": "pronta-entrega",
     "codigo": "PG1033-2"
-   },
-   {
-    "pasta": "pronta-entrega",
-    "codigo": "BRI20375-1"
-   },
-   {
-    "pasta": "pronta-entrega",
-    "codigo": "BRI20455-1"
    },
    {
     "pasta": "pronta-entrega",
