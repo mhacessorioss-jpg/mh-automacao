@@ -155,35 +155,135 @@
   "horario": null
  },
  {
-  "pasta": null,
+  "pasta": "oferta-16-11",
+  "tipo": "oferta20",
   "itens": [
    {
-    "pasta": "novidades-270323",
-    "codigo": "PUL6490"
+    "pasta": "oferta-16-11",
+    "codigo": "BRI16678-1"
    },
    {
-    "pasta": "novidades-270323",
+    "pasta": "oferta-16-11",
+    "codigo": "BRI22464-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI22464-2"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25405-2"
+   },
+   {
+    "pasta": "oferta-16-11",
     "codigo": "AN5445-5"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25645"
    }
   ],
   "codigos": [
-   "PUL6490",
-   "AN5445-5"
+   "BRI16678-1",
+   "BRI22464-1",
+   "BRI22464-2",
+   "BRI25405-2",
+   "AN5445-5",
+   "BRI25645"
   ],
   "enviado": null,
-  "tipo": "novidade",
-  "horario": null
+  "horario": "2026-11-16"
+ },
+ {
+  "pasta": "oferta-16-11",
+  "tipo": "oferta20",
+  "itens": [
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25742"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25564"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25567"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "PUL8430"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "PUL8452"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI23996"
+   }
+  ],
+  "codigos": [
+   "BRI25742",
+   "BRI25564",
+   "BRI25567",
+   "PUL8430",
+   "PUL8452",
+   "BRI23996"
+  ],
+  "enviado": null,
+  "horario": "2026-11-16"
+ },
+ {
+  "pasta": "oferta-16-11",
+  "tipo": "oferta20",
+  "itens": [
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25086-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "CEB6914-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "COL17159-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "COL17201-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRA4576-1"
+   },
+   {
+    "pasta": "oferta-16-11",
+    "codigo": "BRI25743"
+   }
+  ],
+  "codigos": [
+   "BRI25086-1",
+   "CEB6914-1",
+   "COL17159-1",
+   "COL17201-1",
+   "BRA4576-1",
+   "BRI25743"
+  ],
+  "enviado": null,
+  "horario": "2026-11-16"
  },
  {
   "pasta": null,
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "COL17159-1"
+    "codigo": "PUL6490"
    }
   ],
   "codigos": [
-   "COL17159-1"
+   "PUL6490"
   ],
   "enviado": null,
   "tipo": "novidade",
@@ -198,16 +298,11 @@
    },
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI22464-1"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "PUL8287"
    }
   ],
   "codigos": [
    "REL-BRAC-D",
-   "BRI22464-1",
    "PUL8287"
   ],
   "enviado": null,
@@ -261,16 +356,11 @@
   "pasta": null,
   "itens": [
    {
-    "pasta": "novidades-270323",
-    "codigo": "COL17201-1"
-   },
-   {
     "pasta": "relogios",
     "codigo": "REL-BRAC-P"
    }
   ],
   "codigos": [
-   "COL17201-1",
    "REL-BRAC-P"
   ],
   "enviado": null,
@@ -282,15 +372,10 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI22464-2"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "PUL8288"
    }
   ],
   "codigos": [
-   "BRI22464-2",
    "PUL8288"
   ],
   "enviado": null,
@@ -327,30 +412,10 @@
    {
     "pasta": "novidades-270323",
     "codigo": "BRI23096"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "PUL8430"
    }
   ],
   "codigos": [
-   "BRI23096",
-   "PUL8430"
-  ],
-  "enviado": null,
-  "tipo": "novidade",
-  "horario": null
- },
- {
-  "pasta": null,
-  "itens": [
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25086-1"
-   }
-  ],
-  "codigos": [
-   "BRI25086-1"
+   "BRI23096"
   ],
   "enviado": null,
   "tipo": "novidade",
@@ -385,41 +450,16 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "PUL8452"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25405-2"
-   }
-  ],
-  "codigos": [
-   "PUL8452",
-   "BRI25405-2"
-  ],
-  "enviado": null,
-  "tipo": "novidade",
-  "horario": null
- },
- {
-  "pasta": null,
-  "itens": [
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI25531"
    },
    {
     "pasta": "novidades-270323",
     "codigo": "BRI25544-1"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25564"
    }
   ],
   "codigos": [
    "BRI25531",
-   "BRI25544-1",
-   "BRI25564"
+   "BRI25544-1"
   ],
   "enviado": null,
   "tipo": "novidade",
@@ -459,35 +499,6 @@
   "itens": [
    {
     "pasta": "novidades-270323",
-    "codigo": "BRI25567"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25645"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25742"
-   }
-  ],
-  "codigos": [
-   "BRI25567",
-   "BRI25645",
-   "BRI25742"
-  ],
-  "enviado": null,
-  "tipo": "novidade",
-  "horario": null
- },
- {
-  "pasta": null,
-  "itens": [
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI25743"
-   },
-   {
-    "pasta": "novidades-270323",
     "codigo": "BRI25808"
    },
    {
@@ -496,7 +507,6 @@
    }
   ],
   "codigos": [
-   "BRI25743",
    "BRI25808",
    "BRI25810"
   ],
@@ -534,31 +544,11 @@
    {
     "pasta": "novidades-270323",
     "codigo": "BRI26197"
-   },
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI23996"
    }
   ],
   "codigos": [
    "BRI26195",
-   "BRI26197",
-   "BRI23996"
-  ],
-  "enviado": null,
-  "tipo": "novidade",
-  "horario": null
- },
- {
-  "pasta": null,
-  "itens": [
-   {
-    "pasta": "novidades-270323",
-    "codigo": "BRI23996"
-   }
-  ],
-  "codigos": [
-   "BRI23996"
+   "BRI26197"
   ],
   "enviado": null,
   "tipo": "novidade",
