@@ -1,236 +1,236 @@
 [
-  {
-    "codigo": "COL14013",
-    "arquivo": "stories/01_COL14013.jpg",
-    "horario": "2026-11-09 19:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026884286334340901"
-  },
-  {
-    "codigo": "CEB5170",
-    "arquivo": "stories/02_CEB5170.jpg",
-    "horario": "2026-11-09 20:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026925955889287709"
-  },
-  {
-    "codigo": "COL14741",
-    "arquivo": "stories/03_COL14741.jpg",
-    "horario": "2026-11-09 21:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026956419874200987"
-  },
-  {
-    "codigo": "COL14662",
-    "arquivo": "stories/04_COL14662.jpg",
-    "horario": "2026-11-10 08:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027288430257824742"
-  },
-  {
-    "codigo": "BRI18931-2",
-    "arquivo": "stories/05_BRI18931-2.jpg",
-    "horario": "2026-11-10 10:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027334078822739283"
-  },
-  {
-    "codigo": "PUL7046",
-    "arquivo": "stories/06_PUL7046.jpg",
-    "horario": "2026-11-10 12:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027394449505090655"
-  },
-  {
-    "codigo": "BRI19641-2",
-    "arquivo": "stories/07_BRI19641-2.jpg",
-    "horario": "2026-11-10 13:30",
-    "publicado": "PAUSADO (peças novas no lugar)"
-  },
-  {
-    "codigo": "COL12362",
-    "arquivo": "stories/08_COL12362.jpg",
-    "horario": "2026-11-10 18:00",
-    "publicado": "PAUSADO (peças novas no lugar)"
-  },
-  {
-    "codigo": "RELOGIO",
-    "arquivo": "stories/09_RELOGIO.jpg",
-    "horario": "2026-11-10 19:00",
-    "publicado": "PAUSADO (peças novas no lugar)"
-  },
-  {
-    "codigo": "PUL6713",
-    "arquivo": "stories/10_PUL6713.jpg",
-    "horario": "2026-11-10 20:30",
-    "publicado": "PAUSADO (peças novas no lugar)"
-  },
-  {
-    "codigo": "CEB5149",
-    "arquivo": "stories2/CEB5149.jpg",
-    "horario": "2026-11-10 14:05",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027457209898657486"
-  },
-  {
-    "codigo": "CEB5150",
-    "arquivo": "stories2/CEB5150.jpg",
-    "horario": "2026-11-10 18:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027575450532778653"
-  },
-  {
-    "codigo": "PUL7047",
-    "arquivo": "stories2/PUL7047.jpg",
-    "horario": "2026-11-10 20:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027650993537527923"
-  },
-  {
-    "codigo": "PUL7033",
-    "arquivo": "stories2/PUL7033.jpg",
-    "horario": "2026-11-10 19:00",
-    "publicado": "PAUSADO (vai amanhã por R$11 na live)"
-  },
-  {
-    "codigo": "LIVE-HOJE",
-    "arquivo": "stories2/live_story_hoje.jpg",
-    "horario": "2026-11-11 09:00",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028028394360662075"
-  },
-  {
-    "codigo": "LIVE-30MIN",
-    "arquivo": "stories2/live_story_30min.jpg",
-    "horario": "2026-11-11 11:30",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028103961274195100"
-  },
-  {
-    "codigo": "PUL7033-11",
-    "arquivo": "stories2/PUL7033_11.jpg",
-    "horario": "2026-11-11 09:05",
-    "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028030995500830636"
-  },
-  {
-    "codigo": "LIVE-R10_BRI18931-2",
-    "arquivo": "stories_live/R10_BRI18931-2.jpg",
-    "horario": "2026-11-11 12:04",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_AN3342-7",
-    "arquivo": "stories_live/R11_AN3342-7.jpg",
-    "horario": "2026-11-11 12:08",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI19065-2",
-    "arquivo": "stories_live/R10_BRI19065-2.jpg",
-    "horario": "2026-11-11 12:12",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_AN3387-3",
-    "arquivo": "stories_live/R11_AN3387-3.jpg",
-    "horario": "2026-11-11 12:16",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI19641-2",
-    "arquivo": "stories_live/R10_BRI19641-2.jpg",
-    "horario": "2026-11-11 12:20",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_AN3696-3",
-    "arquivo": "stories_live/R11_AN3696-3.jpg",
-    "horario": "2026-11-11 12:24",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI19741-2",
-    "arquivo": "stories_live/R10_BRI19741-2.jpg",
-    "horario": "2026-11-11 12:28",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_AN3696-4",
-    "arquivo": "stories_live/R11_AN3696-4.jpg",
-    "horario": "2026-11-11 12:32",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI19935-2",
-    "arquivo": "stories_live/R10_BRI19935-2.jpg",
-    "horario": "2026-11-11 12:36",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_AN3701-1",
-    "arquivo": "stories_live/R11_AN3701-1.jpg",
-    "horario": "2026-11-11 12:40",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI20037-2",
-    "arquivo": "stories_live/R10_BRI20037-2.jpg",
-    "horario": "2026-11-11 12:44",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_BRI20218",
-    "arquivo": "stories_live/R11_BRI20218.jpg",
-    "horario": "2026-11-11 12:48",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI20226-2",
-    "arquivo": "stories_live/R10_BRI20226-2.jpg",
-    "horario": "2026-11-11 12:52",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_BRI20455-1",
-    "arquivo": "stories_live/R11_BRI20455-1.jpg",
-    "horario": "2026-11-11 12:56",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_BRI20309-2",
-    "arquivo": "stories_live/R10_BRI20309-2.jpg",
-    "horario": "2026-11-11 13:00",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_BRI20456-1",
-    "arquivo": "stories_live/R11_BRI20456-1.jpg",
-    "horario": "2026-11-11 13:04",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R10_PG1029-2",
-    "arquivo": "stories_live/R10_PG1029-2.jpg",
-    "horario": "2026-11-11 13:08",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_BRI20458-1",
-    "arquivo": "stories_live/R11_BRI20458-1.jpg",
-    "horario": "2026-11-11 13:12",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_CEB4976",
-    "arquivo": "stories_live/R11_CEB4976.jpg",
-    "horario": "2026-11-11 13:16",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_CEB5125",
-    "arquivo": "stories_live/R11_CEB5125.jpg",
-    "horario": "2026-11-11 13:20",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_CEB5157",
-    "arquivo": "stories_live/R11_CEB5157.jpg",
-    "horario": "2026-11-11 13:24",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  },
-  {
-    "codigo": "LIVE-R11_COL14134-1",
-    "arquivo": "stories_live/R11_COL14134-1.jpg",
-    "horario": "2026-11-11 13:28",
-    "publicado": "PAUSADO (aguardando Gabriela)"
-  }
+ {
+  "codigo": "COL14013",
+  "arquivo": "stories/01_COL14013.jpg",
+  "horario": "2026-11-09 19:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026884286334340901"
+ },
+ {
+  "codigo": "CEB5170",
+  "arquivo": "stories/02_CEB5170.jpg",
+  "horario": "2026-11-09 20:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026925955889287709"
+ },
+ {
+  "codigo": "COL14741",
+  "arquivo": "stories/03_COL14741.jpg",
+  "horario": "2026-11-09 21:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4026956419874200987"
+ },
+ {
+  "codigo": "COL14662",
+  "arquivo": "stories/04_COL14662.jpg",
+  "horario": "2026-11-10 08:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027288430257824742"
+ },
+ {
+  "codigo": "BRI18931-2",
+  "arquivo": "stories/05_BRI18931-2.jpg",
+  "horario": "2026-11-10 10:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027334078822739283"
+ },
+ {
+  "codigo": "PUL7046",
+  "arquivo": "stories/06_PUL7046.jpg",
+  "horario": "2026-11-10 12:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027394449505090655"
+ },
+ {
+  "codigo": "BRI19641-2",
+  "arquivo": "stories/07_BRI19641-2.jpg",
+  "horario": "2026-11-10 13:30",
+  "publicado": "PAUSADO (peças novas no lugar)"
+ },
+ {
+  "codigo": "COL12362",
+  "arquivo": "stories/08_COL12362.jpg",
+  "horario": "2026-11-10 18:00",
+  "publicado": "PAUSADO (peças novas no lugar)"
+ },
+ {
+  "codigo": "RELOGIO",
+  "arquivo": "stories/09_RELOGIO.jpg",
+  "horario": "2026-11-10 19:00",
+  "publicado": "PAUSADO (peças novas no lugar)"
+ },
+ {
+  "codigo": "PUL6713",
+  "arquivo": "stories/10_PUL6713.jpg",
+  "horario": "2026-11-10 20:30",
+  "publicado": "PAUSADO (peças novas no lugar)"
+ },
+ {
+  "codigo": "CEB5149",
+  "arquivo": "stories2/CEB5149.jpg",
+  "horario": "2026-11-10 14:05",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027457209898657486"
+ },
+ {
+  "codigo": "CEB5150",
+  "arquivo": "stories2/CEB5150.jpg",
+  "horario": "2026-11-10 18:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027575450532778653"
+ },
+ {
+  "codigo": "PUL7047",
+  "arquivo": "stories2/PUL7047.jpg",
+  "horario": "2026-11-10 20:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4027650993537527923"
+ },
+ {
+  "codigo": "PUL7033",
+  "arquivo": "stories2/PUL7033.jpg",
+  "horario": "2026-11-10 19:00",
+  "publicado": "PAUSADO (vai amanhã por R$11 na live)"
+ },
+ {
+  "codigo": "LIVE-HOJE",
+  "arquivo": "stories2/live_story_hoje.jpg",
+  "horario": "2026-11-11 09:00",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028028394360662075"
+ },
+ {
+  "codigo": "LIVE-30MIN",
+  "arquivo": "stories2/live_story_30min.jpg",
+  "horario": "2026-11-11 11:30",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028103961274195100"
+ },
+ {
+  "codigo": "PUL7033-11",
+  "arquivo": "stories2/PUL7033_11.jpg",
+  "horario": "2026-11-11 09:05",
+  "publicado": "https://www.instagram.com/stories/mhacessorios_oficial/4028030995500830636"
+ },
+ {
+  "codigo": "LIVE-R10_BRI18931-2",
+  "arquivo": "stories_live/R10_BRI18931-2.jpg",
+  "horario": "2026-11-11 12:04",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_AN3342-7",
+  "arquivo": "stories_live/R11_AN3342-7.jpg",
+  "horario": "2026-11-11 12:08",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI19065-2",
+  "arquivo": "stories_live/R10_BRI19065-2.jpg",
+  "horario": "2026-11-11 12:12",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_AN3387-3",
+  "arquivo": "stories_live/R11_AN3387-3.jpg",
+  "horario": "2026-11-11 12:16",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI19641-2",
+  "arquivo": "stories_live/R10_BRI19641-2.jpg",
+  "horario": "2026-11-11 12:20",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_AN3696-3",
+  "arquivo": "stories_live/R11_AN3696-3.jpg",
+  "horario": "2026-11-11 12:24",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI19741-2",
+  "arquivo": "stories_live/R10_BRI19741-2.jpg",
+  "horario": "2026-11-11 12:28",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_AN3696-4",
+  "arquivo": "stories_live/R11_AN3696-4.jpg",
+  "horario": "2026-11-11 12:32",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI19935-2",
+  "arquivo": "stories_live/R10_BRI19935-2.jpg",
+  "horario": "2026-11-11 12:36",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_AN3701-1",
+  "arquivo": "stories_live/R11_AN3701-1.jpg",
+  "horario": "2026-11-11 12:40",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI20037-2",
+  "arquivo": "stories_live/R10_BRI20037-2.jpg",
+  "horario": "2026-11-11 12:44",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_BRI20218",
+  "arquivo": "stories_live/R11_BRI20218.jpg",
+  "horario": "2026-11-11 12:48",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI20226-2",
+  "arquivo": "stories_live/R10_BRI20226-2.jpg",
+  "horario": "2026-11-11 12:52",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_BRI20455-1",
+  "arquivo": "stories_live/R11_BRI20455-1.jpg",
+  "horario": "2026-11-11 12:56",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_BRI20309-2",
+  "arquivo": "stories_live/R10_BRI20309-2.jpg",
+  "horario": "2026-11-11 13:00",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_BRI20456-1",
+  "arquivo": "stories_live/R11_BRI20456-1.jpg",
+  "horario": "2026-11-11 13:04",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R10_PG1029-2",
+  "arquivo": "stories_live/R10_PG1029-2.jpg",
+  "horario": "2026-11-11 13:08",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_BRI20458-1",
+  "arquivo": "stories_live/R11_BRI20458-1.jpg",
+  "horario": "2026-11-11 13:12",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_CEB4976",
+  "arquivo": "stories_live/R11_CEB4976.jpg",
+  "horario": "2026-11-11 13:16",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_CEB5125",
+  "arquivo": "stories_live/R11_CEB5125.jpg",
+  "horario": "2026-11-11 13:20",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_CEB5157",
+  "arquivo": "stories_live/R11_CEB5157.jpg",
+  "horario": "2026-11-11 13:24",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ },
+ {
+  "codigo": "LIVE-R11_COL14134-1",
+  "arquivo": "stories_live/R11_COL14134-1.jpg",
+  "horario": "2026-11-11 13:28",
+  "publicado": "PAUSADO (aguardando Gabriela)"
+ }
 ]
