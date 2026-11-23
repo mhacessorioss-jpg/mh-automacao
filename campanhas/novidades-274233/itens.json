@@ -1,0 +1,847 @@
+[
+ {
+  "codigo": "BRI19017-1",
+  "nome": "Brinco Ponto de Luz",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI19017-1_01.png",
+  "refs": [
+   "fotos/BRI19017-1_01.png",
+   "fotos/BRI19017-1_02.jpg",
+   "fotos/BRI19017-1_03.jpg"
+  ],
+  "por": "17,90",
+  "qtd": 3
+ },
+ {
+  "codigo": "BRI17517-1",
+  "nome": "Brinco Gota Cristal",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI17517-1_01.jpg",
+  "refs": [
+   "fotos/BRI17517-1_01.jpg",
+   "fotos/BRI17517-1_02.jpg"
+  ],
+  "por": "17,90",
+  "qtd": 3
+ },
+ {
+  "codigo": "AN5401",
+  "nome": "Anel Solitário Regulável Ponto de Luz",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5401_01.jpg",
+  "refs": [
+   "fotos/AN5401_01.jpg",
+   "fotos/AN5401_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 4
+ },
+ {
+  "codigo": "BRI17516-1",
+  "nome": "Brinco Coração Cristal",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI17516-1_01.png",
+  "refs": [
+   "fotos/BRI17516-1_01.png",
+   "fotos/BRI17516-1_02.png"
+  ],
+  "por": "17,90",
+  "qtd": 3
+ },
+ {
+  "codigo": "BRI25798-1",
+  "nome": "Brinco Argola M",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI25798-1_01.jpg",
+  "refs": [
+   "fotos/BRI25798-1_01.jpg",
+   "fotos/BRI25798-1_02.jpg",
+   "fotos/BRI25798-1_03.jpg"
+  ],
+  "por": "38,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "BRI26631-1",
+  "nome": "Brinco Botton Trançado",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26631-1_01.jpg",
+  "refs": [
+   "fotos/BRI26631-1_01.jpg",
+   "fotos/BRI26631-1_02.jpg",
+   "fotos/BRI26631-1_03.jpg"
+  ],
+  "por": "26,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5095",
+  "nome": "Anel Regulável Gota Cristal",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5095_01.png",
+  "refs": [
+   "fotos/AN5095_01.png",
+   "fotos/AN5095_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5093",
+  "nome": "Anel Regulável Coração Cristal M",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5093_01.png",
+  "refs": [
+   "fotos/AN5093_01.png",
+   "fotos/AN5093_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5601",
+  "nome": "Anel Regulável Aro em V",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5601_01.jpg",
+  "refs": [
+   "fotos/AN5601_01.jpg",
+   "fotos/AN5601_02.jpg"
+  ],
+  "por": "14,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "AN5602",
+  "nome": "Anel Regulável Design Torcido",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5602_01.jpg",
+  "refs": [
+   "fotos/AN5602_01.jpg",
+   "fotos/AN5602_02.jpg"
+  ],
+  "por": "14,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "AN5574-3",
+  "nome": "Anel Design Corações · Tam. 18",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5574-3_01.jpg",
+  "refs": [
+   "fotos/AN5574-3_01.jpg",
+   "fotos/AN5574-3_02.jpg",
+   "fotos/AN5574-3_03.jpg"
+  ],
+  "por": "20,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL10902-1",
+  "nome": "Colar Ponto de Luz Formato Coração",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL10902-1_01.png",
+  "refs": [
+   "fotos/COL10902-1_01.png"
+  ],
+  "por": "29,90",
+  "qtd": 3
+ },
+ {
+  "codigo": "COL16436-1",
+  "nome": "Colar Ponto de Luz Gota",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL16436-1_01.png",
+  "refs": [
+   "fotos/COL16436-1_01.png",
+   "fotos/COL16436-1_02.png"
+  ],
+  "por": "29,90",
+  "qtd": 3
+ },
+ {
+  "codigo": "COL17401",
+  "nome": "Colar Ponto de Luz",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17401_01.jpg",
+  "refs": [
+   "fotos/COL17401_01.jpg",
+   "fotos/COL17401_02.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17319",
+  "nome": "Colar Duplo Coração Liso e Cristal",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17319_01.jpg",
+  "refs": [
+   "fotos/COL17319_01.jpg",
+   "fotos/COL17319_02.jpg"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17306",
+  "nome": "Colar Duplo Coração e Ponto de Luz",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17306_01.jpg",
+  "refs": [
+   "fotos/COL17306_01.jpg",
+   "fotos/COL17306_02.jpg"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17380-1",
+  "nome": "Choker Aro Coração",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17380-1_01.jpg",
+  "refs": [
+   "fotos/COL17380-1_01.jpg",
+   "fotos/COL17380-1_02.jpg",
+   "fotos/COL17380-1_03.jpg"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL12367",
+  "nome": "Choker Malha",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL12367_01.jpg",
+  "refs": [
+   "fotos/COL12367_01.jpg",
+   "fotos/COL12367_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7081-1",
+  "nome": "Conjunto Colar e Brinco Gota Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7081-1_01.png",
+  "refs": [
+   "fotos/CEB7081-1_01.png",
+   "fotos/CEB7081-1_02.jpg",
+   "fotos/CEB7081-1_03.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "CEB7102-1",
+  "nome": "Conjunto Colar e Brinco Gota Encapsulada",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7102-1_01.jpg",
+  "refs": [
+   "fotos/CEB7102-1_01.jpg",
+   "fotos/CEB7102-1_02.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7089-1",
+  "nome": "Conjunto Colar e Brinco Mini Coração Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7089-1_01.png",
+  "refs": [
+   "fotos/CEB7089-1_01.png",
+   "fotos/CEB7089-1_02.png",
+   "fotos/CEB7089-1_03.png"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7087-1",
+  "nome": "Conjunto Colar e Brinco Coração Com Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7087-1_01.jpg",
+  "refs": [
+   "fotos/CEB7087-1_01.jpg",
+   "fotos/CEB7087-1_02.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7084",
+  "nome": "Conjunto Colar e Brinco Pérola",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7084_01.jpg",
+  "refs": [
+   "fotos/CEB7084_01.jpg",
+   "fotos/CEB7084_02.jpeg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB3895-3",
+  "nome": "Conjunto Colar e Brinco Ponto de Luz Coração",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB3895-3_01.jpg",
+  "refs": [
+   "fotos/CEB3895-3_01.jpg"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8520",
+  "nome": "Pulseira Malha",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8520_01.jpg",
+  "refs": [
+   "fotos/PUL8520_01.jpg",
+   "fotos/PUL8520_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8179",
+  "nome": "Pulseira Duplo Cordão Baiano G",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8179_01.jpg",
+  "refs": [
+   "fotos/PUL8179_01.jpg",
+   "fotos/PUL8179_02.jpeg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8551",
+  "nome": "Pulseira Coração Cristal Encapsulado",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8551_01.jpg",
+  "refs": [
+   "fotos/PUL8551_01.jpg",
+   "fotos/PUL8551_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8556",
+  "nome": "Pulseira Pérolas e Corações",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8556_01.jpg",
+  "refs": [
+   "fotos/PUL8556_01.jpg",
+   "fotos/PUL8556_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRA4669",
+  "nome": "Bracelete Aro V",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRA4669_01.jpg",
+  "refs": [
+   "fotos/BRA4669_01.jpg",
+   "fotos/BRA4669_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB5988-5",
+  "nome": "Conjunto Colar e Brinco Gota Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB5988-5_01.png",
+  "refs": [
+   "fotos/CEB5988-5_01.png",
+   "fotos/CEB5988-5_02.png",
+   "fotos/CEB5988-5_03.png"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17517",
+  "nome": "Choker Corações",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17517_01.jpg",
+  "refs": [
+   "fotos/COL17517_01.jpg",
+   "fotos/COL17517_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "COL17422-1",
+  "nome": "Colar Duplo Nossa Senhora Micro Zircônia",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17422-1_01.jpeg",
+  "refs": [
+   "fotos/COL17422-1_01.jpeg",
+   "fotos/COL17422-1_02.png",
+   "fotos/COL17422-1_03.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26432-1",
+  "nome": "Brinco Flor Vazada Com Cristal",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26432-1_01.jpg",
+  "refs": [
+   "fotos/BRI26432-1_01.jpg",
+   "fotos/BRI26432-1_02.jpg",
+   "fotos/BRI26432-1_03.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17404-1",
+  "nome": "Colar Duplo Zircônia e Detalhe Cristal",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17404-1_01.png",
+  "refs": [
+   "fotos/COL17404-1_01.png",
+   "fotos/COL17404-1_02.jpeg",
+   "fotos/COL17404-1_03.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26521",
+  "nome": "Brinco Quadrado Com Mini Esferas",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26521_01.jpg",
+  "refs": [
+   "fotos/BRI26521_01.jpg",
+   "fotos/BRI26521_02.jpg"
+  ],
+  "por": "14,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26382-1",
+  "nome": "Brinco Gota Vazada com Resina Perolada",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26382-1_01.png",
+  "refs": [
+   "fotos/BRI26382-1_01.png",
+   "fotos/BRI26382-1_02.jpg",
+   "fotos/BRI26382-1_03.jpg"
+  ],
+  "por": "41,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26429-1",
+  "nome": "Brinco Corações Texturizado",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26429-1_01.jpg",
+  "refs": [
+   "fotos/BRI26429-1_01.jpg",
+   "fotos/BRI26429-1_02.jpg",
+   "fotos/BRI26429-1_03.jpg"
+  ],
+  "por": "23,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26422-1",
+  "nome": "Brinco Argola Três Fios Com Navete M",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26422-1_01.jpg",
+  "refs": [
+   "fotos/BRI26422-1_01.jpg",
+   "fotos/BRI26422-1_02.jpg",
+   "fotos/BRI26422-1_03.png"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26301",
+  "nome": "Trio de Brincos Ponto de Luz com Borboleta",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/BRI26301_01.jpg",
+  "refs": [
+   "fotos/BRI26301_01.jpg",
+   "fotos/BRI26301_02.jpg"
+  ],
+  "por": "20,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7211",
+  "nome": "Conjunto Colar e Brinco Quadrado Cristal Duplo",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7211_01.jpg",
+  "refs": [
+   "fotos/CEB7211_01.jpg",
+   "fotos/CEB7211_02.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7129-1",
+  "nome": "Conjunto Colar e Brinco Nossa Senhora Com Cruz",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7129-1_01.png",
+  "refs": [
+   "fotos/CEB7129-1_01.png",
+   "fotos/CEB7129-1_02.png",
+   "fotos/CEB7129-1_03.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7110-1",
+  "nome": "Conjunto Colar e Brinco Bola Lisa",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7110-1_01.jpg",
+  "refs": [
+   "fotos/CEB7110-1_01.jpg",
+   "fotos/CEB7110-1_02.jpg",
+   "fotos/CEB7110-1_03.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "CEB7111",
+  "nome": "Conjunto Colar e Brinco Quadriculado Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7111_01.jpg",
+  "refs": [
+   "fotos/CEB7111_01.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7116",
+  "nome": "Conjunto Colar e Brinco Coração Cristal",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7116_01.jpg",
+  "refs": [
+   "fotos/CEB7116_01.jpg",
+   "fotos/CEB7116_02.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17504",
+  "nome": "Choker Pérolas e Coração",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17504_01.jpg",
+  "refs": [
+   "fotos/COL17504_01.jpg",
+   "fotos/COL17504_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "COL17421",
+  "nome": "Choker Detalhes Bolinhas e Coração Espirito Santo",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17421_01.png",
+  "refs": [
+   "fotos/COL17421_01.png",
+   "fotos/COL17421_02.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 2
+ },
+ {
+  "codigo": "COL17435",
+  "nome": "Colar Pérolas Orgânicas",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17435_01.png",
+  "refs": [
+   "fotos/COL17435_01.png",
+   "fotos/COL17435_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8373",
+  "nome": "Pulseira Elos Torcidos",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8373_01.jpg",
+  "refs": [
+   "fotos/PUL8373_01.jpg",
+   "fotos/PUL8373_02.jpg"
+  ],
+  "por": "17,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5615-6",
+  "nome": "Kit Anel Elos com Zircônia e Círculos · Tam. 20",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5615-6_01.png",
+  "refs": [
+   "fotos/AN5615-6_01.png",
+   "fotos/AN5615-6_02.jpg",
+   "fotos/AN5615-6_03.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5615-1",
+  "nome": "Kit Anel Elos com Zircônia e Círculos · Tam. 17",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5615-1_01.png",
+  "refs": [
+   "fotos/AN5615-1_01.png",
+   "fotos/AN5615-1_02.jpg",
+   "fotos/AN5615-1_03.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "AN5639-1",
+  "nome": "Anel Regulável Gota Lisa e Pérola",
+  "categoria": "anel",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/AN5639-1_01.png",
+  "refs": [
+   "fotos/AN5639-1_01.png",
+   "fotos/AN5639-1_02.jpg",
+   "fotos/AN5639-1_03.jpg"
+  ],
+  "por": "20,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "PUL8579",
+  "nome": "Pulseira Coração Detalhes Com Bolinhas",
+  "categoria": "pulseira",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/PUL8579_01.png",
+  "refs": [
+   "fotos/PUL8579_01.png",
+   "fotos/PUL8579_02.jpg"
+  ],
+  "por": "29,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "BRI26400-1",
+  "nome": "Brinco Botão Liso",
+  "categoria": "brinco",
+  "cor": "dourado",
+  "material": "Aço inoxidável banhado a ouro 18k",
+  "ref": "fotos/BRI26400-1_01.jpg",
+  "refs": [
+   "fotos/BRI26400-1_01.jpg",
+   "fotos/BRI26400-1_02.jpg",
+   "fotos/BRI26400-1_03.jpg"
+  ],
+  "por": "20,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17520",
+  "nome": "Choker Corações Com Cristal",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17520_01.jpg",
+  "refs": [
+   "fotos/COL17520_01.jpg",
+   "fotos/COL17520_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17320",
+  "nome": "Choker Esferas Lisas",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17320_01.jpg",
+  "refs": [
+   "fotos/COL17320_01.jpg",
+   "fotos/COL17320_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL16310-1",
+  "nome": "Choker Flor Cristais Coloridos",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL16310-1_01.jpg",
+  "refs": [
+   "fotos/COL16310-1_01.jpg",
+   "fotos/COL16310-1_02.jpg"
+  ],
+  "por": "35,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7108-1",
+  "nome": "Conjunto Colar e Brinco Circulo Espirito Santo",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7108-1_01.jpg",
+  "refs": [
+   "fotos/CEB7108-1_01.jpg",
+   "fotos/CEB7108-1_02.jpg",
+   "fotos/CEB7108-1_03.jpg"
+  ],
+  "por": "32,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "COL17527",
+  "nome": "Colar Espírito Santo",
+  "categoria": "colar",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/COL17527_01.jpg",
+  "refs": [
+   "fotos/COL17527_01.jpg",
+   "fotos/COL17527_02.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ },
+ {
+  "codigo": "CEB7214-1",
+  "nome": "Conjunto Colar e Brinco Trevo Preto",
+  "categoria": "conjunto",
+  "cor": "dourado",
+  "material": "Folheado a ouro 18k",
+  "ref": "fotos/CEB7214-1_01.jpg",
+  "refs": [
+   "fotos/CEB7214-1_01.jpg",
+   "fotos/CEB7214-1_02.jpg",
+   "fotos/CEB7214-1_03.jpg"
+  ],
+  "por": "44,90",
+  "qtd": 1
+ }
+]
