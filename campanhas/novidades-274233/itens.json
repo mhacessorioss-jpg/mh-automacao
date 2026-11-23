@@ -5,14 +5,15 @@
   "categoria": "brinco",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI19017-1_01.png",
+  "ref": "fotos/BRI19017-1_01.jpg",
   "refs": [
-   "fotos/BRI19017-1_01.png",
-   "fotos/BRI19017-1_02.jpg",
+   "fotos/BRI19017-1_01.jpg",
+   "fotos/BRI19017-1_02.png",
    "fotos/BRI19017-1_03.jpg"
   ],
   "por": "17,90",
-  "qtd": 3
+  "qtd": 3,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "BRI17517-1",
@@ -84,7 +85,8 @@
    "fotos/BRI26631-1_03.jpg"
   ],
   "por": "26,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "AN5095",
@@ -261,14 +263,15 @@
   "categoria": "conjunto",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/CEB7081-1_01.png",
+  "ref": "fotos/CEB7081-1_01.jpg",
   "refs": [
-   "fotos/CEB7081-1_01.png",
+   "fotos/CEB7081-1_01.jpg",
    "fotos/CEB7081-1_02.jpg",
    "fotos/CEB7081-1_03.jpg"
   ],
   "por": "35,90",
-  "qtd": 2
+  "qtd": 2,
+  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones."
  },
  {
   "codigo": "CEB7102-1",
@@ -294,7 +297,7 @@
   "refs": [
    "fotos/CEB7089-1_01.png",
    "fotos/CEB7089-1_02.png",
-   "fotos/CEB7089-1_03.png"
+   "fotos/CEB7089-1_03.jpg"
   ],
   "por": "32,90",
   "qtd": 1
@@ -319,10 +322,10 @@
   "categoria": "conjunto",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/CEB7084_01.jpg",
+  "ref": "fotos/CEB7084_01.jpeg",
   "refs": [
-   "fotos/CEB7084_01.jpg",
-   "fotos/CEB7084_02.jpeg"
+   "fotos/CEB7084_01.jpeg",
+   "fotos/CEB7084_02.jpg"
   ],
   "por": "32,90",
   "qtd": 1
@@ -338,7 +341,8 @@
    "fotos/CEB3895-3_01.jpg"
   ],
   "por": "41,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "PUL8520",
@@ -416,14 +420,15 @@
   "categoria": "conjunto",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/CEB5988-5_01.png",
+  "ref": "fotos/CEB5988-5_01.jpg",
   "refs": [
-   "fotos/CEB5988-5_01.png",
-   "fotos/CEB5988-5_02.png",
-   "fotos/CEB5988-5_03.png"
+   "fotos/CEB5988-5_01.jpg",
+   "fotos/CEB5988-5_02.jpg",
+   "fotos/CEB5988-5_03.jpg"
   ],
   "por": "41,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones."
  },
  {
   "codigo": "COL17517",
@@ -467,7 +472,8 @@
    "fotos/BRI26432-1_03.jpg"
   ],
   "por": "44,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "COL17404-1",
@@ -482,7 +488,8 @@
    "fotos/COL17404-1_03.jpg"
   ],
   "por": "35,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "BRI26521",
@@ -504,9 +511,9 @@
   "categoria": "brinco",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26382-1_01.png",
+  "ref": "fotos/BRI26382-1_01.jpg",
   "refs": [
-   "fotos/BRI26382-1_01.png",
+   "fotos/BRI26382-1_01.jpg",
    "fotos/BRI26382-1_02.jpg",
    "fotos/BRI26382-1_03.jpg"
   ],
@@ -526,7 +533,8 @@
    "fotos/BRI26429-1_03.jpg"
   ],
   "por": "23,90",
-  "qtd": 1
+  "qtd": 1,
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
  },
  {
   "codigo": "BRI26422-1",
@@ -534,11 +542,11 @@
   "categoria": "brinco",
   "cor": "dourado",
   "material": "Folheado a ouro 18k",
-  "ref": "fotos/BRI26422-1_01.jpg",
+  "ref": "fotos/BRI26422-1_01.png",
   "refs": [
-   "fotos/BRI26422-1_01.jpg",
+   "fotos/BRI26422-1_01.png",
    "fotos/BRI26422-1_02.jpg",
-   "fotos/BRI26422-1_03.png"
+   "fotos/BRI26422-1_03.jpg"
   ],
   "por": "44,90",
   "qtd": 1
