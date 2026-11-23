@@ -3,5 +3,6 @@ import sys
 from . import config, gemini
 if __name__ == "__main__":
     e, s, p = (config.RAIZ / a for a in sys.argv[1:4])
+    s.parent.mkdir(parents=True, exist_ok=True)
     extras = [config.RAIZ / a for a in sys.argv[4:]]
     gemini.gerar_imagem(p.read_text(encoding="utf-8"), [e] + extras, s); print("ok", s)
