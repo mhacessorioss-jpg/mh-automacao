@@ -13,7 +13,8 @@
   ],
   "por": "17,90",
   "qtd": 3,
-  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version.",
+  "ref_uso": "fotos/BRI19017-1_03.jpg"
  },
  {
   "codigo": "BRI17517-1",
@@ -70,7 +71,8 @@
    "fotos/BRI25798-1_03.jpg"
   ],
   "por": "38,90",
-  "qtd": 2
+  "qtd": 2,
+  "ref_uso": "fotos/BRI25798-1_03.jpg"
  },
  {
   "codigo": "BRI26631-1",
@@ -86,7 +88,8 @@
   ],
   "por": "26,90",
   "qtd": 1,
-  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version.",
+  "ref_uso": "fotos/BRI26631-1_03.jpg"
  },
  {
   "codigo": "AN5095",
@@ -271,7 +274,8 @@
   ],
   "por": "35,90",
   "qtd": 2,
-  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones."
+  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones.",
+  "ref_uso": "fotos/CEB7081-1_03.jpg"
  },
  {
   "codigo": "CEB7102-1",
@@ -285,7 +289,8 @@
    "fotos/CEB7102-1_02.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7102-1_02.jpg"
  },
  {
   "codigo": "CEB7089-1",
@@ -300,7 +305,8 @@
    "fotos/CEB7089-1_03.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7089-1_03.jpg"
  },
  {
   "codigo": "CEB7087-1",
@@ -314,7 +320,8 @@
    "fotos/CEB7087-1_02.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7087-1_02.jpg"
  },
  {
   "codigo": "CEB7084",
@@ -328,7 +335,8 @@
    "fotos/CEB7084_02.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7084_02.jpg"
  },
  {
   "codigo": "CEB3895-3",
@@ -428,7 +436,8 @@
   ],
   "por": "41,90",
   "qtd": 1,
-  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones."
+  "extra": "IMPORTANT: all stones must be clear transparent CRYSTAL (colorless), even if the reference photo shows colored stones.",
+  "ref_uso": "fotos/CEB5988-5_03.jpg"
  },
  {
   "codigo": "COL17517",
@@ -457,7 +466,9 @@
    "fotos/COL17422-1_03.jpg"
   ],
   "por": "35,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/COL17422-1_03.jpg",
+  "extra": "ATENÇÃO, esta peça é exceção: é um colar DUPLO (dois fios): um fio mais curto de elos alongados e um fio fino mais longo com o pingente. O pingente é uma medalha REDONDA vazada (um círculo) com a imagem de Nossa Senhora cravejada de micro zircônias dentro do círculo, idêntica à referência. Tamanho real, delicado."
  },
  {
   "codigo": "BRI26432-1",
@@ -473,7 +484,8 @@
   ],
   "por": "44,90",
   "qtd": 1,
-  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version.",
+  "ref_uso": "fotos/BRI26432-1_03.jpg"
  },
  {
   "codigo": "COL17404-1",
@@ -503,7 +515,8 @@
    "fotos/BRI26521_02.jpg"
   ],
   "por": "14,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/BRI26521_02.jpg"
  },
  {
   "codigo": "BRI26382-1",
@@ -518,7 +531,8 @@
    "fotos/BRI26382-1_03.jpg"
   ],
   "por": "41,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/BRI26382-1_03.jpg"
  },
  {
   "codigo": "BRI26429-1",
@@ -534,7 +548,8 @@
   ],
   "por": "23,90",
   "qtd": 1,
-  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version."
+  "extra": "IMPORTANT: the piece must be GOLD-plated (18k gold color), not silver, even if the reference photo shows a silver version.",
+  "ref_uso": "fotos/BRI26429-1_03.jpg"
  },
  {
   "codigo": "BRI26422-1",
@@ -549,7 +564,8 @@
    "fotos/BRI26422-1_03.jpg"
   ],
   "por": "44,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/BRI26422-1_03.jpg"
  },
  {
   "codigo": "BRI26301",
@@ -563,7 +579,9 @@
    "fotos/BRI26301_02.jpg"
   ],
   "por": "20,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/BRI26301_02.jpg",
+  "extra": "Este é um TRIO de brincos usado na MESMA orelha, como na terceira imagem: close aproximado da orelha, com o ponto de luz, a borboleta e o brinco de bolinha com pedra, cada um em um furo do lóbulo/parte baixa da orelha, lado a lado, pequenos e em tamanho real."
  },
  {
   "codigo": "CEB7211",
@@ -577,7 +595,9 @@
    "fotos/CEB7211_02.jpg"
   ],
   "por": "44,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7211_02.jpg",
+  "extra": "Os brincos têm dois quadrados de cristal (um em cima do outro), pequenos, no lóbulo; o pingente é um quadrado de cristal pequeno."
  },
  {
   "codigo": "CEB7129-1",
@@ -592,7 +612,9 @@
    "fotos/CEB7129-1_03.jpg"
   ],
   "por": "44,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7129-1_03.jpg",
+  "extra": "O pingente é a Nossa Senhora cravejada com a cruz pendurada embaixo, pequeno e delicado; os brincos são pequenos, em formato de manto da Nossa Senhora, no lóbulo."
  },
  {
   "codigo": "CEB7110-1",
@@ -634,7 +656,8 @@
    "fotos/CEB7116_02.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7116_02.jpg"
  },
  {
   "codigo": "COL17504",
@@ -764,7 +787,8 @@
    "fotos/BRI26400-1_03.jpg"
   ],
   "por": "20,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/BRI26400-1_03.jpg"
  },
  {
   "codigo": "COL17520",
@@ -821,7 +845,8 @@
    "fotos/CEB7108-1_03.jpg"
   ],
   "por": "32,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7108-1_03.jpg"
  },
  {
   "codigo": "COL17527",
@@ -850,6 +875,7 @@
    "fotos/CEB7214-1_03.jpg"
   ],
   "por": "44,90",
-  "qtd": 1
+  "qtd": 1,
+  "ref_uso": "fotos/CEB7214-1_03.jpg"
  }
 ]

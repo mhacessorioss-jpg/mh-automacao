@@ -36,6 +36,9 @@ if __name__ == "__main__":
         if it.get("usar_em_uso") and p.get("foto_em_uso"):
             prompt += " " + config.PROMPTS["referencia_em_uso"] + " Atenção: é UM colar só, de um único fio (não é colar duplo nem em camadas), como na terceira imagem."
             imgs.append(config.FOTOS / p["foto_em_uso"])
+        elif it.get("ref_uso"):
+            prompt += " " + config.PROMPTS["referencia_em_uso"] + " Copie dessa terceira imagem o TAMANHO REAL da peça em relação à orelha/pescoço/pulso e a forma natural como ela é usada."
+            imgs.append(config.RAIZ / it["ref_uso"])
         elif not p.get("_ref") and gerar.usa_foto_em_uso(p):
             imgs.append(config.FOTOS / p["foto_em_uso"])
         if it.get("close"):
