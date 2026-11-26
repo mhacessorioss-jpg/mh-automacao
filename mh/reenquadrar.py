@@ -14,9 +14,10 @@ PROMPT = ("Refaça esta foto de joalheria como um CLOSE MACRO DE PERFIL DA ORELH
 
 def um(it):
     try:
-        imgs = [config.RAIZ / it["foto"]] + ([config.RAIZ / it["ref"]] if it.get("ref") else [])
+        imgs = [config.RAIZ / it["foto"]] + ([config.RAIZ / it["ref"]] if it.get("ref") else []) + ([config.RAIZ / it["uso"]] if it.get("uso") else [])
         s = config.RAIZ / it["saida"]; s.parent.mkdir(parents=True, exist_ok=True)
-        gemini.gerar_imagem(PROMPT + (" " + it["extra"] if it.get("extra") else ""), imgs, s)
+        extra_uso = (" A terceira imagem é uma foto real de outra pessoa usando este mesmo brinco: copie dela o TAMANHO do brinco em relação à orelha e a posição em que ele é usado (não copie o rosto dela).") if it.get("uso") else ""
+        gemini.gerar_imagem(PROMPT + extra_uso + (" " + it["extra"] if it.get("extra") else ""), imgs, s)
         print("ok", it["saida"], flush=True)
     except Exception as e:
         print("erro", it["saida"], e, flush=True)
