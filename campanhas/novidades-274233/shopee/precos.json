@@ -1,0 +1,533 @@
+[
+ {
+  "codigo": "BRI19017-1",
+  "nome": "Brinco Ponto de Luz",
+  "categoria": "brinco",
+  "qtd": 3,
+  "qtd_itens": 3,
+  "custo": 5.93,
+  "shopee": 23.9
+ },
+ {
+  "codigo": "BRI17517-1",
+  "nome": "Brinco Gota Cristal",
+  "categoria": "brinco",
+  "qtd": 3,
+  "qtd_itens": 3,
+  "custo": 5.93,
+  "shopee": 23.9
+ },
+ {
+  "codigo": "AN5401",
+  "nome": "Anel Solitário Regulável Ponto de Luz",
+  "categoria": "anel",
+  "qtd": 4,
+  "qtd_itens": 4,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "BRI17516-1",
+  "nome": "Brinco Coração Cristal",
+  "categoria": "brinco",
+  "qtd": 3,
+  "qtd_itens": 3,
+  "custo": 5.93,
+  "shopee": 23.9
+ },
+ {
+  "codigo": "BRI25798-1",
+  "nome": "Brinco Argola M",
+  "categoria": "brinco",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 12.93,
+  "shopee": 41.9
+ },
+ {
+  "codigo": "BRI26631-1",
+  "nome": "Brinco Botton Trançado",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 8.93,
+  "shopee": 31.9
+ },
+ {
+  "codigo": "AN5095",
+  "nome": "Anel Regulável Gota Cristal",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "AN5093",
+  "nome": "Anel Regulável Coração Cristal M",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "AN5601",
+  "nome": "Anel Regulável Aro em V",
+  "categoria": "anel",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 4.99,
+  "shopee": 21.9
+ },
+ {
+  "codigo": "AN5602",
+  "nome": "Anel Regulável Design Torcido",
+  "categoria": "anel",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 4.99,
+  "shopee": 21.9
+ },
+ {
+  "codigo": "AN5574-3",
+  "nome": "Anel Design Corações · Tam. 18",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 6.93,
+  "shopee": 26.9
+ },
+ {
+  "codigo": "COL10902-1",
+  "nome": "Colar Ponto de Luz Formato Coração",
+  "categoria": "colar",
+  "qtd": 3,
+  "qtd_itens": 3,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "COL16436-1",
+  "nome": "Colar Ponto de Luz Gota",
+  "categoria": "colar",
+  "qtd": 3,
+  "qtd_itens": 3,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "COL17401",
+  "nome": "Colar Ponto de Luz",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "COL17319",
+  "nome": "Colar Duplo Coração Liso e Cristal",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "COL17306",
+  "nome": "Colar Duplo Coração e Ponto de Luz",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "COL17380-1",
+  "nome": "Choker Aro Coração",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "COL12367",
+  "nome": "Choker Malha",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "CEB7081-1",
+  "nome": "Conjunto Colar e Brinco Gota Cristal",
+  "categoria": "conjunto",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "CEB7102-1",
+  "nome": "Conjunto Colar e Brinco Gota Encapsulada",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB7089-1",
+  "nome": "Conjunto Colar e Brinco Mini Coração Cristal",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB7087-1",
+  "nome": "Conjunto Colar e Brinco Coração Com Cristal",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB7084",
+  "nome": "Conjunto Colar e Brinco Pérola",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB3895-3",
+  "nome": "Conjunto Colar e Brinco Ponto de Luz Coração",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "PUL8520",
+  "nome": "Pulseira Malha",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "PUL8179",
+  "nome": "Pulseira Duplo Cordão Baiano G",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "PUL8551",
+  "nome": "Pulseira Coração Cristal Encapsulado",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "PUL8556",
+  "nome": "Pulseira Pérolas e Corações",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "BRA4669",
+  "nome": "Bracelete Aro V",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "CEB5988-5",
+  "nome": "Conjunto Colar e Brinco Gota Cristal",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "COL17517",
+  "nome": "Choker Corações",
+  "categoria": "colar",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "COL17422-1",
+  "nome": "Colar Duplo Nossa Senhora Micro Zircônia",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "BRI26432-1",
+  "nome": "Brinco Flor Vazada Com Cristal",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 19.93,
+  "shopee": 59.9
+ },
+ {
+  "codigo": "COL17404-1",
+  "nome": "Colar Duplo Zircônia e Detalhe Cristal",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "BRI26521",
+  "nome": "Brinco Quadrado Com Mini Esferas",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 4.99,
+  "shopee": 21.9
+ },
+ {
+  "codigo": "BRI26382-1",
+  "nome": "Brinco Gota Vazada com Resina Perolada",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 13.93,
+  "shopee": 43.9
+ },
+ {
+  "codigo": "BRI26429-1",
+  "nome": "Brinco Corações Texturizado",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 7.93,
+  "shopee": 28.9
+ },
+ {
+  "codigo": "BRI26422-1",
+  "nome": "Brinco Argola Três Fios Com Navete M",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 14.93,
+  "shopee": 46.9
+ },
+ {
+  "codigo": "BRI26301",
+  "nome": "Trio de Brincos Ponto de Luz com Borboleta",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 6.93,
+  "shopee": 26.9
+ },
+ {
+  "codigo": "CEB7211",
+  "nome": "Conjunto Colar e Brinco Quadrado Cristal Duplo",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 17.93,
+  "shopee": 53.9
+ },
+ {
+  "codigo": "CEB7129-1",
+  "nome": "Conjunto Colar e Brinco Nossa Senhora Com Cruz",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 18.93,
+  "shopee": 56.9
+ },
+ {
+  "codigo": "CEB7110-1",
+  "nome": "Conjunto Colar e Brinco Bola Lisa",
+  "categoria": "conjunto",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB7111",
+  "nome": "Conjunto Colar e Brinco Quadriculado Cristal",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "CEB7116",
+  "nome": "Conjunto Colar e Brinco Coração Cristal",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "COL17504",
+  "nome": "Choker Pérolas e Coração",
+  "categoria": "colar",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "COL17421",
+  "nome": "Choker Detalhes Bolinhas e Coração Espirito Santo",
+  "categoria": "colar",
+  "qtd": 2,
+  "qtd_itens": 2,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "COL17435",
+  "nome": "Colar Pérolas Orgânicas",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "PUL8373",
+  "nome": "Pulseira Elos Torcidos",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 5.93,
+  "shopee": 23.9
+ },
+ {
+  "codigo": "AN5615-6",
+  "nome": "Kit Anel Elos com Zircônia e Círculos · Tam. 20",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 29.93,
+  "shopee": 84.9
+ },
+ {
+  "codigo": "AN5615-1",
+  "nome": "Kit Anel Elos com Zircônia e Círculos · Tam. 17",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 29.93,
+  "shopee": 84.9
+ },
+ {
+  "codigo": "AN5639-1",
+  "nome": "Anel Regulável Gota Lisa e Pérola",
+  "categoria": "anel",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 6.93,
+  "shopee": 26.9
+ },
+ {
+  "codigo": "PUL8579",
+  "nome": "Pulseira Coração Detalhes Com Bolinhas",
+  "categoria": "pulseira",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 9.93,
+  "shopee": 33.9
+ },
+ {
+  "codigo": "BRI26400-1",
+  "nome": "Brinco Botão Liso",
+  "categoria": "brinco",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 6.93,
+  "shopee": 26.9
+ },
+ {
+  "codigo": "COL17520",
+  "nome": "Choker Corações Com Cristal",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "COL17320",
+  "nome": "Choker Esferas Lisas",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "COL16310-1",
+  "nome": "Choker Flor Cristais Coloridos",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 11.93,
+  "shopee": 38.9
+ },
+ {
+  "codigo": "CEB7108-1",
+  "nome": "Conjunto Colar e Brinco Circulo Espirito Santo",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 10.93,
+  "shopee": 36.9
+ },
+ {
+  "codigo": "COL17527",
+  "nome": "Colar Espírito Santo",
+  "categoria": "colar",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 14.93,
+  "shopee": 46.9
+ },
+ {
+  "codigo": "CEB7214-1",
+  "nome": "Conjunto Colar e Brinco Trevo Preto",
+  "categoria": "conjunto",
+  "qtd": 1,
+  "qtd_itens": 1,
+  "custo": 19.93,
+  "shopee": 59.9
+ }
+]
