@@ -6,7 +6,8 @@
   "qtd": 3,
   "qtd_itens": 3,
   "custo": 5.93,
-  "shopee": 23.9
+  "shopee": 23.9,
+  "shopee_id": 58274169343
  },
  {
   "codigo": "BRI17517-1",
@@ -15,7 +16,8 @@
   "qtd": 3,
   "qtd_itens": 3,
   "custo": 5.93,
-  "shopee": 23.9
+  "shopee": 23.9,
+  "shopee_id": 23999895840
  },
  {
   "codigo": "AN5401",
@@ -24,7 +26,8 @@
   "qtd": 4,
   "qtd_itens": 4,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58274169303
  },
  {
   "codigo": "BRI17516-1",
@@ -33,7 +36,8 @@
   "qtd": 3,
   "qtd_itens": 3,
   "custo": 5.93,
-  "shopee": 23.9
+  "shopee": 23.9,
+  "shopee_id": 58274176476
  },
  {
   "codigo": "BRI25798-1",
@@ -42,7 +46,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 12.93,
-  "shopee": 41.9
+  "shopee": 41.9,
+  "shopee_id": 58274176481
  },
  {
   "codigo": "BRI26631-1",
@@ -51,7 +56,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 8.93,
-  "shopee": 31.9
+  "shopee": 31.9,
+  "shopee_id": 58274169370
  },
  {
   "codigo": "AN5095",
@@ -60,7 +66,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58274176491
  },
  {
   "codigo": "AN5093",
@@ -69,7 +76,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224149532
  },
  {
   "codigo": "AN5601",
@@ -78,7 +86,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 4.99,
-  "shopee": 21.9
+  "shopee": 21.9,
+  "shopee_id": 58274169394
  },
  {
   "codigo": "AN5602",
@@ -87,7 +96,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 4.99,
-  "shopee": 21.9
+  "shopee": 21.9,
+  "shopee_id": 58224149546
  },
  {
   "codigo": "AN5574-3",
@@ -96,7 +106,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 6.93,
-  "shopee": 26.9
+  "shopee": 26.9,
+  "shopee_id": 58274169402
  },
  {
   "codigo": "COL10902-1",
@@ -105,7 +116,8 @@
   "qtd": 3,
   "qtd_itens": 3,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58274169411
  },
  {
   "codigo": "COL16436-1",
@@ -114,7 +126,8 @@
   "qtd": 3,
   "qtd_itens": 3,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58274176538
  },
  {
   "codigo": "COL17401",
@@ -123,7 +136,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58274169430
  },
  {
   "codigo": "COL17319",
@@ -132,7 +146,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 58274169440
  },
  {
   "codigo": "COL17306",
@@ -141,7 +156,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 58274169446
  },
  {
   "codigo": "COL17380-1",
@@ -150,7 +166,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 58224149675
  },
  {
   "codigo": "COL12367",
@@ -159,7 +176,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224149705
  },
  {
   "codigo": "CEB7081-1",
@@ -168,7 +186,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58274176693
  },
  {
   "codigo": "CEB7102-1",
@@ -177,7 +196,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58274176711
  },
  {
   "codigo": "CEB7089-1",
@@ -186,7 +206,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224149778
  },
  {
   "codigo": "CEB7087-1",
@@ -195,7 +216,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58274176756
  },
  {
   "codigo": "CEB7084",
@@ -204,7 +226,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58274169660
  },
  {
   "codigo": "CEB3895-3",
@@ -213,7 +236,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 58224149857
  },
  {
   "codigo": "PUL8520",
@@ -222,7 +246,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58224149889
  },
  {
   "codigo": "PUL8179",
@@ -231,7 +256,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58274176864
  },
  {
   "codigo": "PUL8551",
@@ -240,7 +266,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58224149944
  },
  {
   "codigo": "PUL8556",
@@ -249,7 +276,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 22395412481
  },
  {
   "codigo": "BRA4669",
@@ -258,7 +286,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 22599914113
  },
  {
   "codigo": "CEB5988-5",
@@ -267,7 +296,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 22699919117
  },
  {
   "codigo": "COL17517",
@@ -276,7 +306,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 22895418006
  },
  {
   "codigo": "COL17422-1",
@@ -285,7 +316,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224160101
  },
  {
   "codigo": "BRI26432-1",
@@ -294,7 +326,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 19.93,
-  "shopee": 59.9
+  "shopee": 59.9,
+  "shopee_id": 58224153835
  },
  {
   "codigo": "COL17404-1",
@@ -303,7 +336,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224160155
  },
  {
   "codigo": "BRI26521",
@@ -312,7 +346,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 4.99,
-  "shopee": 21.9
+  "shopee": 21.9,
+  "shopee_id": 58224160176
  },
  {
   "codigo": "BRI26382-1",
@@ -321,7 +356,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 13.93,
-  "shopee": 43.9
+  "shopee": 43.9,
+  "shopee_id": 23695413389
  },
  {
   "codigo": "BRI26429-1",
@@ -330,7 +366,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 7.93,
-  "shopee": 28.9
+  "shopee": 28.9,
+  "shopee_id": 23799910023
  },
  {
   "codigo": "BRI26422-1",
@@ -339,7 +376,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 14.93,
-  "shopee": 46.9
+  "shopee": 46.9,
+  "shopee_id": 58224153966
  },
  {
   "codigo": "BRI26301",
@@ -348,7 +386,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 6.93,
-  "shopee": 26.9
+  "shopee": 26.9,
+  "shopee_id": 58224160286
  },
  {
   "codigo": "CEB7211",
@@ -357,7 +396,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 17.93,
-  "shopee": 53.9
+  "shopee": 53.9,
+  "shopee_id": 58224157565
  },
  {
   "codigo": "CEB7129-1",
@@ -366,7 +406,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 18.93,
-  "shopee": 56.9
+  "shopee": 56.9,
+  "shopee_id": 58224154051
  },
  {
   "codigo": "CEB7110-1",
@@ -375,7 +416,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224154082
  },
  {
   "codigo": "CEB7111",
@@ -384,7 +426,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224154105
  },
  {
   "codigo": "CEB7116",
@@ -393,7 +436,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224160434
  },
  {
   "codigo": "COL17504",
@@ -402,7 +446,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224157747
  },
  {
   "codigo": "COL17421",
@@ -411,7 +456,8 @@
   "qtd": 2,
   "qtd_itens": 2,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224154229
  },
  {
   "codigo": "COL17435",
@@ -420,7 +466,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58224154265
  },
  {
   "codigo": "PUL8373",
@@ -429,7 +476,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 5.93,
-  "shopee": 23.9
+  "shopee": 23.9,
+  "shopee_id": 58224154300
  },
  {
   "codigo": "AN5615-6",
@@ -438,7 +486,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 29.93,
-  "shopee": 84.9
+  "shopee": 84.9,
+  "shopee_id": 58224157891
  },
  {
   "codigo": "AN5615-1",
@@ -447,7 +496,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 29.93,
-  "shopee": 84.9
+  "shopee": 84.9,
+  "shopee_id": 58224154354
  },
  {
   "codigo": "AN5639-1",
@@ -456,7 +506,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 6.93,
-  "shopee": 26.9
+  "shopee": 26.9,
+  "shopee_id": 58224160636
  },
  {
   "codigo": "PUL8579",
@@ -465,7 +516,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 9.93,
-  "shopee": 33.9
+  "shopee": 33.9,
+  "shopee_id": 58224154415
  },
  {
   "codigo": "BRI26400-1",
@@ -474,7 +526,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 6.93,
-  "shopee": 26.9
+  "shopee": 26.9,
+  "shopee_id": 58224160702
  },
  {
   "codigo": "COL17520",
@@ -483,7 +536,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224158009
  },
  {
   "codigo": "COL17320",
@@ -492,7 +546,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224154488
  },
  {
   "codigo": "COL16310-1",
@@ -501,7 +556,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 11.93,
-  "shopee": 38.9
+  "shopee": 38.9,
+  "shopee_id": 58224160775
  },
  {
   "codigo": "CEB7108-1",
@@ -510,7 +566,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 10.93,
-  "shopee": 36.9
+  "shopee": 36.9,
+  "shopee_id": 58224160804
  },
  {
   "codigo": "COL17527",
@@ -519,7 +576,8 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 14.93,
-  "shopee": 46.9
+  "shopee": 46.9,
+  "shopee_id": 58224160831
  },
  {
   "codigo": "CEB7214-1",
@@ -528,6 +586,7 @@
   "qtd": 1,
   "qtd_itens": 1,
   "custo": 19.93,
-  "shopee": 59.9
+  "shopee": 59.9,
+  "shopee_id": 58224154584
  }
 ]
